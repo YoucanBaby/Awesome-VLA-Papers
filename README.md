@@ -59,6 +59,29 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Affordance as Action Tokens
 
+## Keypoint
+- **KITE**, *KITE: Keypoint-Conditioned Policies for Semantic Manipulation*, 2023.6, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2306.16605)] [[🌍 Website](https://sites.google.com/view/kite-website/home)] [[💻 Code](https://github.com/priyasundaresan/kite_keypoint_training)]
+- **RoboPoint**, *RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics*, 2024.1, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.10721)] [[🌍 Website](https://robo-point.github.io/)] [[💻 Code](https://github.com/wentaoyuan/RoboPoint)]
+- **CoPa**, *CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models*, 2024.3, IROS 2024. [[📄 Paper](https://arxiv.org/abs/2403.08248)] [[🌍 Website](https://copa-2024.github.io/)] [[💻 Code](https://github.com/HaoxuHuang/copa)]
+- **RAM**, *RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation*, 2024.7, CoRL 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2407.04689)] [[🌍 Website](https://yuxuank.com/RAM/)] [[💻 Code](https://github.com/yxKryptonite/RAM_code)]
+- **ReKep**, *ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation*, 2024.9, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2409.01652)] [[🌍 Website](https://rekep-robot.github.io/)] [[💻 Code](https://github.com/huangwl18/ReKep)]
+
+
+## Bounding Box
+- **A3VLM**, *A3VLM: Actionable Articulation-Aware Vision Language Model*, 2024.6, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.07549)] [[💻 Code](https://github.com/changhaonan/A3VLM)]
+- **GPT-4V**, *GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration*, 2023.11, RA-L 2024. [[📄 Paper](https://arxiv.org/abs/2311.12015)] [[🌍 Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)] [[💻 Code](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts)]
+
+## Segmentation Mask
+- **DexGraspVLA**, *DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.20900)] [[🌍 Website](https://dexgraspvla.github.io/)] [[💻 Code](https://github.com/Psi-Robot/DexGraspVLA)]
+- **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
+- **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
+
+## Affordance Map
+- **VoxPoser**, *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*, 2023.7, CoRL 2023 Oral. [[📄 Paper](https://arxiv.org/abs/2307.05973)] [[🌍 Website](https://voxposer.github.io/)] [[💻 Code](https://github.com/huangwl18/VoxPoser)]
+- **ManipLLM**, *ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation*, 2023.12, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2312.16217)] [[🌍 Website](https://sites.google.com/view/manipllm)] [[💻 Code](https://github.com/clorislili/ManipLLM)]
+- **ManiFoundation**, *ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots*, 2024.5, IROS 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2405.06964)] [[🌍 Website](https://manifoundationmodel.github.io/)] [[💻 Code](https://github.com/NUS-LinS-Lab/ManiFM)]
+- **MOKA**, *MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting*, 2024.5, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.03174)] [[🌍 Website](https://moka-manipulation.github.io/)] [[💻 Code](https://github.com/moka-manipulation/moka)]
+
 
 ## Keypoint
 
