@@ -34,23 +34,14 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Language Plan
 
 - **Language Planner**, *Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents*, 2022.01, ICML 2022. [[📄 Paper](https://arxiv.org/abs/2201.07207)] [[🌍 Website](https://wenlong.page/language-planner/)] [[💻 Code](https://github.com/huangwl18/language-planner)]
-
 - **SayCan**, *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances*, 2022.04. [[📄 Paper](https://arxiv.org/abs/2204.01691)] [[🌍 Website](https://say-can.github.io/)] [[💻 Code](https://github.com/google-research/google-research/tree/master/saycan)]
-
 - **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
-
 - **Palm-E**, *PaLM-E: An Embodied Multimodal Language Model*, 2023.03, ICML 2023. [[📄 Paper](https://arxiv.org/abs/2303.03378)] [[🌍 Website](https://palm-e.github.io/)] 
-
 - **EmbodiedGPT**, *EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought*, 2023.05, NeurIPS 2023. [[📄 Paper](https://arxiv.org/abs/2305.15021)] [[🌍 Website](https://embodiedgpt.github.io/)] [[💻 Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)] [[📊 Dataset](https://github.com/EmbodiedGPT/EgoCOT_Dataset)]
-
 - **3D-VLA**, *3D-VLA: A 3D Vision-Language-Action Generative World Model*, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.09631)] [[🌍 Website](https://vis-www.cs.umass.edu/3dvla)] [[💻 Code](https://github.com/UMass-Embodied-AGI/3D-VLA)]
-
 - **Bi-VLA**, *Bi-vla: Vision-language-action model-based system for bimanual robotic dexterous manipulations*, 2024.05, SMC 2024. [[📄 Paper](https://arxiv.org/abs/2405.06039)] 
-
 - **RoboMamba**, *RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation*, 2024.06, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://say-can.github.io/)] [[💻 Code](https://github.com/lmzpai/roboMamba)]
-
 - **Hi Robot**, *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.19417)] [[🌍 Website](https://www.pi.website/research/hirobot)] 
-
 - **RoboBrain**, *RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.21257)] [[🌍 Website](https://superrobobrain.github.io/)] [[💻 Code](https://github.com/FlagOpen/RoboBrain)] [[📊 Dataset](https://huggingface.co/datasets/BAAI/ShareRobot)]
 
 
@@ -58,9 +49,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Language Motion
 
 - **RT-H**, *RT-H: Action Hierarchies Using Language*, 2024.03. [[📄 Paper](https://arxiv.org/abs/2403.01823)] [[🌍 Website](https://rt-hierarchy.github.io/)] 
-
 - **BUMBLE**, *BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.06237)] [[🌍 Website](https://robin-lab.cs.utexas.edu/BUMBLE/)] [[💻 Code](https://github.com/UT-Austin-RobIn/BUMBLE)]
-
 - **NaVILA**, *NaVILA: Legged Robot Vision-Language-Action Model for Navigation*, 2024.12, RSS 2025. [[📄 Paper](https://arxiv.org/abs/2412.04453)] [[🌍 Website](https://navila-bot.github.io/)] [[💻 Code](https://github.com/yang-zj1026/legged-loco)] 
 
 
