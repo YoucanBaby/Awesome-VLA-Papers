@@ -107,3 +107,5 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Related Surveys
 
+- *Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.16411)]
+
