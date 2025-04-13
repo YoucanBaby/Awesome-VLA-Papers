@@ -7,6 +7,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Language Foundation Models
 
+- **Transformer**, *Attention is All You Need*, 2017.06, NIPS 2017. [[📄 Paper]](https://arxiv.org/abs/1706.03762)
 
 
 
