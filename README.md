@@ -65,7 +65,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **CoPa**, *CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models*, 2024.3, IROS 2024. [[📄 Paper](https://arxiv.org/abs/2403.08248)] [[🌍 Website](https://copa-2024.github.io/)] [[💻 Code](https://github.com/HaoxuHuang/copa)]
 - **RAM**, *RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation*, 2024.7, CoRL 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2407.04689)] [[🌍 Website](https://yuxuank.com/RAM/)] [[💻 Code](https://github.com/yxKryptonite/RAM_code)]
 - **ReKep**, *ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation*, 2024.9, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2409.01652)] [[🌍 Website](https://rekep-robot.github.io/)] [[💻 Code](https://github.com/huangwl18/ReKep)]
-
+- **Magma**, *Magma: A Foundation Model for Multimodal AI Agents*, 2025.2, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)]
+- **KUDA**, *KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation*, 2025.3, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2503.10546)] [[🌍 Website](https://kuda-dynamics.github.io/)] [[💻 Code](https://github.com/StoreBlank/KUDA)]
 
 ## Bounding Box
 - **A3VLM**, *A3VLM: Actionable Articulation-Aware Vision Language Model*, 2024.6, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.07549)] [[💻 Code](https://github.com/changhaonan/A3VLM)]
