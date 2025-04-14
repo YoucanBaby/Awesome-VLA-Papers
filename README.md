@@ -118,6 +118,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Reasoning as Action Tokens
 
+- **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
+
 # Scalable Data Sources
 
 # Related Surveys
