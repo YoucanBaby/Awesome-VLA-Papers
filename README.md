@@ -76,14 +76,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **ManiFoundation**, *ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots*, 2024.5, IROS 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2405.06964)] [[🌍 Website](https://manifoundationmodel.github.io/)] [[💻 Code](https://github.com/NUS-LinS-Lab/ManiFM)]
 - **MOKA**, *MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting*, 2024.5, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.03174)] [[🌍 Website](https://moka-manipulation.github.io/)] [[💻 Code](https://github.com/moka-manipulation/moka)]
 
-## Keypoint
-
-## Bounding Box
-
-## Segmentation Mask
-
-## Affordance Map
-
 # Trajectory as Action Tokens
 
 - **ATM**, *Any-point Trajectory Modeling for Policy Learning*, 2023.12, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2401.00025)] [[🌍 Website](https://xingyu-lin.github.io/atm/)] [[💻 Code](https://github.com/Large-Trajectory-Model/ATM)]
