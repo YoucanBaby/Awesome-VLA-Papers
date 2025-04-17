@@ -49,29 +49,23 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 # Affordance as Action Tokens
 
 ## Keypoint
-
 - **KITE**, *KITE: Keypoint-Conditioned Policies for Semantic Manipulation*, 2023.6, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2306.16605)] [[🌍 Website](https://sites.google.com/view/kite-website/home)] [[💻 Code](https://github.com/priyasundaresan/kite_keypoint_training)]
 - **RoboPoint**, *RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics*, 2024.1, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.10721)] [[🌍 Website](https://robo-point.github.io/)] [[💻 Code](https://github.com/wentaoyuan/RoboPoint)]
 - **CoPa**, *CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models*, 2024.3, IROS 2024. [[📄 Paper](https://arxiv.org/abs/2403.08248)] [[🌍 Website](https://copa-2024.github.io/)] [[💻 Code](https://github.com/HaoxuHuang/copa)]
 - **RAM**, *RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation*, 2024.7, CoRL 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2407.04689)] [[🌍 Website](https://yuxuank.com/RAM/)] [[💻 Code](https://github.com/yxKryptonite/RAM_code)]
 - **ReKep**, *ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation*, 2024.9, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2409.01652)] [[🌍 Website](https://rekep-robot.github.io/)] [[💻 Code](https://github.com/huangwl18/ReKep)]
-- **OmniManip**, *OmniManip: Towards General Robotic Manipulation via Object-Centric  Interaction Primitives as Spatial Constraints*, 2025.1, CVPR 2025 Highlight. [[📄 Paper](https://arxiv.org/abs/2501.03841)] [[🌍 Website](https://omnimanip.github.io/)]
-- **Magma**, *Magma: A Foundation Model for Multimodal AI Agents*, 2025.2, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)]
-- **KUDA**, *KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation*, 2025.3, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2503.10546)] [[🌍 Website](https://kuda-dynamics.github.io/)] [[💻 Code](https://github.com/StoreBlank/KUDA)]
+
 
 ## Bounding Box
-
 - **A3VLM**, *A3VLM: Actionable Articulation-Aware Vision Language Model*, 2024.6, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.07549)] [[💻 Code](https://github.com/changhaonan/A3VLM)]
 - **GPT-4V**, *GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration*, 2023.11, RA-L 2024. [[📄 Paper](https://arxiv.org/abs/2311.12015)] [[🌍 Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)] [[💻 Code](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts)]
 
 ## Segmentation Mask
-
 - **DexGraspVLA**, *DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.20900)] [[🌍 Website](https://dexgraspvla.github.io/)] [[💻 Code](https://github.com/Psi-Robot/DexGraspVLA)]
 - **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
 - **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
 
 ## Affordance Map
-
 - **VoxPoser**, *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*, 2023.7, CoRL 2023 Oral. [[📄 Paper](https://arxiv.org/abs/2307.05973)] [[🌍 Website](https://voxposer.github.io/)] [[💻 Code](https://github.com/huangwl18/VoxPoser)]
 - **ManipLLM**, *ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation*, 2023.12, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2312.16217)] [[🌍 Website](https://sites.google.com/view/manipllm)] [[💻 Code](https://github.com/clorislili/ManipLLM)]
 - **ManiFoundation**, *ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots*, 2024.5, IROS 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2405.06964)] [[🌍 Website](https://manifoundationmodel.github.io/)] [[💻 Code](https://github.com/NUS-LinS-Lab/ManiFM)]
@@ -79,31 +73,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Trajectory as Action Tokens
 
-- **ATM**, *Any-point Trajectory Modeling for Policy Learning*, 2023.12, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2401.00025)] [[🌍 Website](https://xingyu-lin.github.io/atm/)] [[💻 Code](https://github.com/Large-Trajectory-Model/ATM)]
-- **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
-- **FLIP**, *FLIP : Flow-Centric Generative Planning as General-Purpose Manipulation World Model*, 2024.12, ICLR 2025 Poster. [[📄 Paper](https://arxiv.org/abs/2412.08261)] [[🌍 Website](https://nus-lins-lab.github.io/flipweb/)] [[💻 Code](https://github.com/HeegerGao/FLIP)]
-- **HAMSTER**, *HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation*, 2025.2, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.05485)] [[🌍 Website](https://hamster-robot.github.io)]
-- **Im2Flow2Act**, *Flow as the Cross-Domain Manipulation Interface*, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.15208)] [[🌍 Website](https://im-flow-act.github.io)] [[💻 Code](https://github.com/real-stanford/im2Flow2Act)]
-- **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[🤗 Data](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
-- **Magma**, *Magma: A foundation model for multimodal AI agents*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)] [[🤗 Model](https://huggingface.co/microsoft/Magma-8B)]
-- **Rt-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
-- **CoVLA**, *CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving*, 2024.08, WACV 2025 Oral. [[📄 Paper](https://arxiv.org/abs/2408.10845)] [[🌍 Website](https://turingmotors.github.io/covla-ad/)] [[🤗 Data](https://huggingface.co/datasets/turing-motors/CoVLA-Dataset)]
-- **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
-- **EMMA**, *EMMA: End-to-End Multimodal Model for Autonomous Driving*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.23262)]
-- **VLM-E2E**, *VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.18042)]
-
 # Goal State as Action Tokens
-
-* **3D-VLA**, 3D-VLA: A 3D Vision-Language-Action Generative World Model, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.09631)] [[🌍 Website](https://vis-www.cs.umass.edu/3dvla/)]
-* **CoT-VLA**, CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models, 2025.03, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2503.22020)] [[🌍 Website](https://cot-vla.github.io/)]
-* **Mobility VLA**, Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.07775)]
-* **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)] [[🌍 Website](https://flow-diffusion.github.io/)] [[💻 Code](https://github.com/flow-diffusion/AVDC)]
-* **UniPi**, learning universal policies via text-guided video, 2023.02, NeurIPS 2023 spotlight. [[📄 Paper](https://arxiv.org/abs/2302.00111)] [[🌍 Website](https://universal-policy.github.io/unipi/)]
-* **VLP**, Video Language Planning, 2023.10, CoRR 2023. [[📄 Paper](https://arxiv.org/abs/2310.10625)] [[🌍 Website](https://video-language-planning.github.io/)] [[💻 Code](https://github.com/video-language-planning/vlp_code)]
-* **Gen2Act**, Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation, 2024.09, CoRL-X-Embodiment-WS 2024. [[📄 Paper](https://arxiv.org/abs/2409.16283)] [[🌍 Website](https://homangab.github.io/gen2act/)]
-* **CoTDiffusion**, Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts, 2024.06, CVPR 2024. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html)] [[🌍 Website](https://cotdiffusion.github.io/)]
-* **SuSIE**, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models, 2023.10, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2310.10639)] [[🌍 Website](https://rail-berkeley.github.io/susie/)] [[💻 Code](https://github.com/kvablack/susie)]
-* **GEVRM**, GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation, 2025.02, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.09268)]
 
 # Latent Representation as Action Tokens
 
@@ -118,8 +88,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 # Raw Action as Action Tokens
 
 # Reasoning as Action Tokens
-
-- **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
 
 # Scalable Data Sources
 
