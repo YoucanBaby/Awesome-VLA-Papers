@@ -86,10 +86,11 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Trajectory as Action Tokens
 
+- **ARM4R**, *Pre-training Auto-regressive Robotic Models with 4D Representations*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.13142)]
 - **ATM**, *Any-point Trajectory Modeling for Policy Learning*, 2023.12, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2401.00025)] [[🌍 Website](https://xingyu-lin.github.io/atm/)] [[💻 Code](https://github.com/Large-Trajectory-Model/ATM)]
 - **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
 - **FLIP**, *FLIP : Flow-Centric Generative Planning as General-Purpose Manipulation World Model*, 2024.12, ICLR 2025 Poster. [[📄 Paper](https://arxiv.org/abs/2412.08261)] [[🌍 Website](https://nus-lins-lab.github.io/flipweb/)] [[💻 Code](https://github.com/HeegerGao/FLIP)]
-- **HAMSTER**, *HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation*, 2025.2, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.05485)] [[🌍 Website](https://hamster-robot.github.io)]
+- **HAMSTER**, *HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation*, 2025.02, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.05485)] [[🌍 Website](https://hamster-robot.github.io)]
 - **Im2Flow2Act**, *Flow as the Cross-Domain Manipulation Interface*, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.15208)] [[🌍 Website](https://im-flow-act.github.io)] [[💻 Code](https://github.com/real-stanford/im2Flow2Act)]
 - **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[🤗 Data](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
 - **Magma**, *Magma: A foundation model for multimodal AI agents*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)] [[🤗 Model](https://huggingface.co/microsoft/Magma-8B)]
@@ -106,7 +107,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 * **Mobility VLA**, Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.07775)]
 * **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)] [[🌍 Website](https://flow-diffusion.github.io/)] [[💻 Code](https://github.com/flow-diffusion/AVDC)]
 * **UniPi**, learning universal policies via text-guided video, 2023.02, NeurIPS 2023 spotlight. [[📄 Paper](https://arxiv.org/abs/2302.00111)] [[🌍 Website](https://universal-policy.github.io/unipi/)]
-* **VLP**, Video Language Planning, 2023.10, CoRR 2023. [[📄 Paper](https://arxiv.org/abs/2310.10625)] [[🌍 Website](https://video-language-planning.github.io/)] [[💻 Code](https://github.com/video-language-planning/vlp_code)]
+* **VLP**, Video Language Planning, 2023.10. [[📄 Paper](https://arxiv.org/abs/2310.10625)] [[🌍 Website](https://video-language-planning.github.io/)] [[💻 Code](https://github.com/video-language-planning/vlp_code)]
 * **Gen2Act**, Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation, 2024.09, CoRL-X-Embodiment-WS 2024. [[📄 Paper](https://arxiv.org/abs/2409.16283)] [[🌍 Website](https://homangab.github.io/gen2act/)]
 * **CoTDiffusion**, Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts, 2024.06, CVPR 2024. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html)] [[🌍 Website](https://cotdiffusion.github.io/)]
 * **SuSIE**, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models, 2023.10, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2310.10639)] [[🌍 Website](https://rail-berkeley.github.io/susie/)] [[💻 Code](https://github.com/kvablack/susie)]
