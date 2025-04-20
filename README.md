@@ -137,4 +137,5 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Related Surveys
 
+- *A Survey on Integration of Large Language Models with Intelligent Robots*, 2024.04, Intelligent Service Robotics 2024. [[📄 Paper](https://arxiv.org/pdf/2404.09228)]
 - *Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.16411)]
