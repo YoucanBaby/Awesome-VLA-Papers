@@ -130,6 +130,53 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Raw Action as Action Tokens
 
+- **LangLfP**: *Language-Conditioned Imitation Learning over Unstructured Data*, 2020.05, Robotics: Science and Systems 2021, 2021. [[📄 Paper](https://arxiv.org/abs/2005.07648)] [[🌍 Website](https://language-play.github.io)] 
+
+- **CLIPort**: *CLIPort: What and Where Pathways for Robotic Manipulation*, 2021.09, Proceedings of the 5th Conference on Robot Learning, PMLR 164:894-906, 2022. [[📄 Paper](https://arxiv.org/abs/2109.12098)] [[🌍 Website](https://cliport.github.io)] [[💻 Code](https://github.com/cliport/cliport)]
+
+- **BC-Z**: *Zero-Shot Task Generalization with Robotic Imitation Learning*, 2021.09, 5th Annual Conference on Robot Learning, CoRL 2021. [[📄 Paper](https://openreview.net/forum?id=8kbp23tSGYv)] [[🌍 Website](https://sites.google.com/view/bc-z/home?pli=1)] [[💻 Code](https://www.catalyzex.com/paper/bc-z-zero-shot-task-generalization-with/code)]
+
+- **Gato**: *A Generalist Agent*, 2022.05, Transactions on Machine Learning Research, 2022. [[📄 Paper](https://arxiv.org/abs/2205.06175)] 
+
+- **Flow Matching**: *Flow Matching for Generative Modeling*, 2023.02, 11th International Conference on Learning Representations, ICLR 2023. [[📄 Paper](https://arxiv.org/abs/2210.02747)] 
+
+- **RT-1**: *RT-1: Robotics Transformer for Real-World Control at Scale*, 2022.12 arXiv:2212.06817v2, 2022. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io)] [[💻 Code](https://github.com/google-research/robotics_transformer)]
+
+- **MOO**: *Open-World Object Manipulation using Pre-trained Vision-Language Models*, 2023.03, The 7th Conference on Robot Learning, PMLR 229:3397-3417, 2023. [[📄 Paper](https://arxiv.org/abs/2303.00905)] [[🌍 Website](https://robot-moo.github.io)] 
+
+- **PaLM-E**: *PaLM-E: An Embodied Multimodal Language Model*, 2023.03, Proceedings of the 40th International Conference on Machine Learning, 2023. [[📄 Paper](https://arxiv.org/abs/2303.03378)]  [[🌍 Website](https://palm-e.github.io/)] 
+
+- **Action Chunking (ACT)**: *Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware*, 2023.04, Robotics: Science and Systems, 2023. [[📄 Paper](https://arxiv.org/abs/2304.13705)]
+
+- **RT-2**: *RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*, 2023.07, arXiv:2307.15818, 2023. [[📄 Paper](https://arxiv.org/abs/2307.15818)] [[🌍 Website](https://robotics-transformer2.github.io)]
+
+- **RT-X**: *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, 2024 IEEE International Conference on Robotics and Automation (ICRA), ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]  [[💻 Code](https://github.com/google-deepmind/open_x_embodiment)] [[🤗 Data](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit?pli=1&gid=0#gid=0)]
+
+- **RoboFlamingo**: *Vision-Language Foundation Models as Effective Robot Imitators*, 2023.11, The Twelfth International Conference on Learning Representations, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.01378)] [[🌍 Website](https://roboflamingo.github.io)] [[💻 Code](https://github.com/RoboFlamingo/RoboFlamingo)]
+
+- **Octo**: *Octo: An Open-Source Generalist Robot Policy*, 2024.05, First Workshop on Vision-Language Models for Navigation and Manipulation at ICRA, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)]
+
+- **Robo-Mamba**: *RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation*, 2024.06, Advances in Neural Information Processing Systems 37, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://sites.google.com/view/robomamba-web)]
+
+- **Open-VLA**: *OpenVLA: An open-source vision-language-action model*, 2024.06, 8th Annual Conference on Robot Learning, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io)] [[💻 Code](https://github.com/openvla/openvla)]
+
+- **ROCKET-1**: *ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting*, 2024.10 NeurIPS 2024 Workshop Open-World Agents Oral, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2410.17856)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1/)] 
+
+- **Pi0-FAST**: *FAST: Efficient Action Tokenization for Vision-Language-Action Models*, 2025.01, arXiv:2501.09747, 2025. [[📄 Paper](https://arxiv.org/abs/2501.09747)] [[🌍 Website](https://www.pi.website/research/fast)] 
+
+- **Openvla-oft**: *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, 2025.02, arXiv:2502.19645, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19645)] [[🌍 Website](https://openvla-oft.github.io)] [[💻 Code](https://github.com/moojink/openvla-oft)]
+
+- **HiRobot**: *Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models*, 2025.02, arXiv:2502.19417, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19417)] 
+
+- **JARVIS-VLA**: *Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse*,2025.3, arXiv:2503.16365, 2025. [[📄 Paper](https://arxiv.org/abs/2503.16365)] [[🌍 Website](https://craftjarvis.github.io/JarvisVLA/)] [[💻 Code](https://github.com/CraftJarvis/JarvisVLA)] [[🤗 Data](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)]
+
+- **HybridVLA**: *HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model*, 2025.03, arXiv:2503.10631, 2025. [[📄 Paper](https://arxiv.org/abs/2503.10631)] [[🌍 Website](https://hybrid-vla.github.io)] [[💻 Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
+
+- **MoManipVLA**: *MoManipVLA: Transferring Vision-language-action Models for General  Mobile Manipulation*, 2025.03, arXiv:2503.13446, 2025. [[📄 Paper](https://arxiv.org/abs/2503.13446)] [[🌍 Website](https://gary3410.github.io/momanipVLA/)] 
+
+- **GR00T N1**: *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03, arXiv:2503.14734, 2025. [[📄 Paper](https://arxiv.org/abs/2503.14734)]
+
+
 # Reasoning as Action Tokens
 
 - **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
