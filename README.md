@@ -146,7 +146,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **PaLM-E**: *PaLM-E: An Embodied Multimodal Language Model*, 2023.03, Proceedings of the 40th International Conference on Machine Learning, 2023. [[📄 Paper](https://arxiv.org/abs/2303.03378)]  [[🌍 Website](https://palm-e.github.io/)] 
 
-- **Action Chunking (ACT)**: *Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware*, 2023.04, Robotics: Science and Systems, 2023. [[📄 Paper](https://arxiv.org/abs/2304.13705)]
+- **ACT (Action Chunking, ALOHA)**: *Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware*, 2023.04, Robotics: Science and Systems, 2023. [[📄 Paper](https://arxiv.org/abs/2304.13705)] [[🌍 Website](https://tonyzhaozh.github.io/aloha/)] [[💻 Code](https://github.com/tonyzhaozh/aloha)]
 
 - **RT-2**: *RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*, 2023.07, arXiv:2307.15818, 2023. [[📄 Paper](https://arxiv.org/abs/2307.15818)] [[🌍 Website](https://robotics-transformer2.github.io)]
 
