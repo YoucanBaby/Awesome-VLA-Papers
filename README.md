@@ -136,7 +136,9 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **BC-Z**: *Zero-Shot Task Generalization with Robotic Imitation Learning*, 2021.09, 5th Annual Conference on Robot Learning, CoRL 2021. [[📄 Paper](https://openreview.net/forum?id=8kbp23tSGYv)] [[🌍 Website](https://sites.google.com/view/bc-z/home?pli=1)] [[💻 Code](https://www.catalyzex.com/paper/bc-z-zero-shot-task-generalization-with/code)]
 
-- **Gato**: *A Generalist Agent*, 2022.05, Transactions on Machine Learning Research, 2022. [[📄 Paper](https://arxiv.org/abs/2205.06175)] 
+- **Gato**: *A Generalist Agent*, 2022.05, Transactions on Machine Learning Research, 2022. [[📄 Paper](https://arxiv.org/abs/2205.06175)]
+
+- **VIMA**: *VIMA: General Robot Manipulation with Multimodal Prompts*, 2022.10, ICML 2023. [[📄 Paper](https://arxiv.org/abs/2210.03094)] [[🌍 Website](https://vimalabs.github.io/)] [[💻 Code](https://github.com/vimalabs/VIMA)]
 
 - **Flow Matching**: *Flow Matching for Generative Modeling*, 2023.02, 11th International Conference on Learning Representations, ICLR 2023. [[📄 Paper](https://arxiv.org/abs/2210.02747)] 
 
@@ -154,13 +156,23 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **RoboFlamingo**: *Vision-Language Foundation Models as Effective Robot Imitators*, 2023.11, The Twelfth International Conference on Learning Representations, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.01378)] [[🌍 Website](https://roboflamingo.github.io)] [[💻 Code](https://github.com/RoboFlamingo/RoboFlamingo)]
 
+- **LEO**: *An Embodied Generalist Agent in 3D World*, 2023.11, PMLR 235:20413-20451, 2024. [[📄 Paper](https://arxiv.org/abs/2311.12871)] [[🌍 Website](https://embodied-generalist.github.io/)] [[💻 Code](https://github.com/embodied-generalist/embodied-generalist?tab=readme-ov-file)]
+
 - **Octo**: *Octo: An Open-Source Generalist Robot Policy*, 2024.05, First Workshop on Vision-Language Models for Navigation and Manipulation at ICRA, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)]
 
 - **Robo-Mamba**: *RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation*, 2024.06, Advances in Neural Information Processing Systems 37, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://sites.google.com/view/robomamba-web)]
 
 - **Open-VLA**: *OpenVLA: An open-source vision-language-action model*, 2024.06, 8th Annual Conference on Robot Learning, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io)] [[💻 Code](https://github.com/openvla/openvla)]
 
-- **ROCKET-1**: *ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting*, 2024.10 NeurIPS 2024 Workshop Open-World Agents Oral, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2410.17856)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1/)] 
+- **ROCKET-1**: *ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting*, 2024.10 NeurIPS 2024 Workshop Open-World Agents Oral, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2410.17856)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1/)]
+
+- **TinyVLA**: *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, IEEE Robotics and Automation Letters (RA-L) 2025. [[📄 Paper](https://arxiv.org/abs/2409.12514)] [[🌍 Website](https://tiny-vla.github.io/)] [[💻 Code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
+
+- **HiRT**: *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers, 2024.09, PMLR 270:933-946, 2025. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
+
+- **RDT-1B**: *RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.07864)] [[🌍 Website](https://rdt-robotics.github.io/rdt-robotics/)] [[💻 Code](https://rdt-robotics.github.io/rdt-robotics/)]
+
+- **CogACT**: *CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation*, 2024.11. [[📄 Paper](https://arxiv.org/abs/2411.19650)] [[🌍 Website](https://cogact.github.io/)] [[💻 Code](https://github.com/microsoft/CogACT?tab=readme-ov-file)] 
 
 - **Pi0-FAST**: *FAST: Efficient Action Tokenization for Vision-Language-Action Models*, 2025.01, arXiv:2501.09747, 2025. [[📄 Paper](https://arxiv.org/abs/2501.09747)] [[🌍 Website](https://www.pi.website/research/fast)] 
 
@@ -176,6 +188,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **GR00T N1**: *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03, arXiv:2503.14734, 2025. [[📄 Paper](https://arxiv.org/abs/2503.14734)]
 
+- **Cosmos-Reason1**: *Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning*, 2025.03, arxiv.org/abs/2503.15558, 2025. [[📄 Paper](https://arxiv.org/abs/2503.15558)] [[🌍 Website](https://research.nvidia.com/labs/dir/cosmos-reason1/)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-reason1?tab=readme-ov-file)]
 
 # Reasoning as Action Tokens
 
