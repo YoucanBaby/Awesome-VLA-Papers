@@ -168,7 +168,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **TinyVLA**: *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, IEEE Robotics and Automation Letters (RA-L) 2025. [[📄 Paper](https://arxiv.org/abs/2409.12514)] [[🌍 Website](https://tiny-vla.github.io/)] [[💻 Code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
 
-- **HiRT**: *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers, 2024.09, PMLR 270:933-946, 2025. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
+- **HiRT**: *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers*, 2024.09, PMLR 270:933-946, 2025. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
 
 - **RDT-1B**: *RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.07864)] [[🌍 Website](https://rdt-robotics.github.io/rdt-robotics/)] [[💻 Code](https://rdt-robotics.github.io/rdt-robotics/)]
 
@@ -186,7 +186,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **MoManipVLA**: *MoManipVLA: Transferring Vision-language-action Models for General  Mobile Manipulation*, 2025.03, arXiv:2503.13446, 2025. [[📄 Paper](https://arxiv.org/abs/2503.13446)] [[🌍 Website](https://gary3410.github.io/momanipVLA/)] 
 
-- **GR00T N1**: *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03, arXiv:2503.14734, 2025. [[📄 Paper](https://arxiv.org/abs/2503.14734)]
+- **GR00T N1**: *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03, arXiv:2503.14734, 2025. [[📄 Paper](https://arxiv.org/abs/2503.14734)] [[🌍 Website](https://developer.nvidia.com/isaac/gr00t)] [[💻 Code](https://github.com/NVIDIA/Isaac-GR00T?tab=readme-ov-file)]
 
 - **Cosmos-Reason1**: *Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning*, 2025.03, arxiv.org/abs/2503.15558, 2025. [[📄 Paper](https://arxiv.org/abs/2503.15558)] [[🌍 Website](https://research.nvidia.com/labs/dir/cosmos-reason1/)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-reason1?tab=readme-ov-file)]
 
