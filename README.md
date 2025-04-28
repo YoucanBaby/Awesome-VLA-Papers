@@ -194,6 +194,10 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
 
+- **ECoT**, *Robotic Control via Embodied Chain-of-Thought Reasoning*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.08693)] [[🌍 Website](https://embodied-cot.github.io/)]
+
+- **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)
+
 # Scalable Data Sources
 
 # Related Surveys
