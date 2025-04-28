@@ -194,9 +194,13 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
 
-- **ECoT**, *Robotic Control via Embodied Chain-of-Thought Reasoning*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.08693)] [[🌍 Website](https://embodied-cot.github.io/)]
+- **ECoT**, *Robotic Control via Embodied Chain-of-Thought Reasoning*, 2024.07, 2024. [[📄 Paper](https://arxiv.org/abs/2407.08693)] [[🌍 Website](https://embodied-cot.github.io/)]
+
+- **RAD**, *Action-Free Reasoning for Policy Generalization*, 2025.02, 2025. [[📄 Paper](https://arxiv.org/abs/2502.03729)] [[🌍 Website](https://rad-generalization.github.io/)]
 
 - **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)
+
+- **AlphaDrive**, *AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning*, 2025.03, 2025. [[📄 Paper](https://arxiv.org/abs/2503.07608)] [[🌍 Website](https://github.com/hustvl/AlphaDrive)]
 
 # Scalable Data Sources
 
