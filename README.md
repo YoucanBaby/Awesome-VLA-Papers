@@ -198,6 +198,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **RAD**, *Action-Free Reasoning for Policy Generalization*, 2025.02, 2025. [[📄 Paper](https://arxiv.org/abs/2502.03729)] [[🌍 Website](https://rad-generalization.github.io/)]
 
+- **DexGraspVLA**, *DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.20900)] [[🌍 Website](https://dexgraspvla.github.io/)] [[💻 Code](https://github.com/Psi-Robot/DexGraspVLA)]
+
 - **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)
 
 - **AlphaDrive**, *AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning*, 2025.03, 2025. [[📄 Paper](https://arxiv.org/abs/2503.07608)] [[🌍 Website](https://github.com/hustvl/AlphaDrive)]
