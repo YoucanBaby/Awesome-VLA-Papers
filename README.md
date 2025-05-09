@@ -35,7 +35,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **3D-VLA**, *3D-VLA: A 3D Vision-Language-Action Generative World Model*, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.09631)] [[🌍 Website](https://vis-www.cs.umass.edu/3dvla)] [[💻 Code](https://github.com/UMass-Embodied-AGI/3D-VLA)]
 - **Bi-VLA**, *Bi-vla: Vision-language-action model-based system for bimanual robotic dexterous manipulations*, 2024.05, SMC 2024. [[📄 Paper](https://arxiv.org/abs/2405.06039)]
 - **RoboMamba**, *RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation*, 2024.06, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://say-can.github.io/)] [[💻 Code](https://github.com/lmzpai/roboMamba)]
-- **Hi Robot**, *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.19417)] [[🌍 Website](https://www.pi.website/research/hirobot)]
+- **Hi Robot**, *Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.19417)] [[🌍 Website](https://www.pi.website/research/hirobot)]
 - **RoboBrain**, *RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.21257)] [[🌍 Website](https://superrobobrain.github.io/)] [[💻 Code](https://github.com/FlagOpen/RoboBrain)] [[📊 Dataset](https://huggingface.co/datasets/BAAI/ShareRobot)]
 
 ## Language Motion
