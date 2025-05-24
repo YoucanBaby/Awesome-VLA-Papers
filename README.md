@@ -91,15 +91,20 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Trajectory as Action Tokens
 
+## Robotics
+
 - **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
 - **Rt-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
-- **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[🤗 Data](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
 - **ATM**, *Any-point Trajectory Modeling for Policy Learning*, 2023.12, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2401.00025)] [[🌍 Website](https://xingyu-lin.github.io/atm/)] [[💻 Code](https://github.com/Large-Trajectory-Model/ATM)]
+- **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[🤗 Data](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
 - **Im2Flow2Act**, *Flow as the Cross-Domain Manipulation Interface*, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.15208)] [[🌍 Website](https://im-flow-act.github.io)] [[💻 Code](https://github.com/real-stanford/im2Flow2Act)]
 - **FLIP**, *FLIP : Flow-Centric Generative Planning as General-Purpose Manipulation World Model*, 2024.12, ICLR 2025 Poster. [[📄 Paper](https://arxiv.org/abs/2412.08261)] [[🌍 Website](https://nus-lins-lab.github.io/flipweb/)] [[💻 Code](https://github.com/HeegerGao/FLIP)]
 - **HAMSTER**, *HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation*, 2025.02, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.05485)] [[🌍 Website](https://hamster-robot.github.io)]
 - **ARM4R**, *Pre-training Auto-regressive Robotic Models with 4D Representations*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.13142)]
 - **Magma**, *Magma: A foundation model for multimodal AI agents*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)] [[🤗 Model](https://huggingface.co/microsoft/Magma-8B)]
+
+## Autonomous Driving
+
 - **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
 - **CoVLA**, *CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving*, 2024.08, WACV 2025 Oral. [[📄 Paper](https://arxiv.org/abs/2408.10845)] [[🌍 Website](https://turingmotors.github.io/covla-ad/)] [[🤗 Data](https://huggingface.co/datasets/turing-motors/CoVLA-Dataset)]
 - **EMMA**, *EMMA: End-to-End Multimodal Model for Autonomous Driving*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.23262)]
@@ -206,17 +211,17 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Scalable Data Sources
 
-- **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[Paper](https://arxiv.org/abs/2110.07058)] [[Website](https://ego4d-data.org)]
-- **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[Paper](https://arxiv.org/abs/1804.02748)] [[Website](https://epic-kitchens.github.io/2020-100)]
-- **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[Paper](https://arxiv.org/abs/1706.04261)] [[Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
-- **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[Paper](https://arxiv.org/abs/2410.24185)] [[Website](https://dexmimicgen.github.io)]
-- **MimicGen**, *MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations*, 2023.10, CoRL 2023. [[Paper](https://arxiv.org/abs/2310.17596)]
-- **RT-1**, *RT-1: ROBOTICS TRANSFORMER  FOR REAL-WORLD CONTROL AT SCALE*, 2022.12. [[Paper](https://arxiv.org/abs/2212.06817)] [[Website](https://robotics-transformer1.github.io/)]
-- **OXE**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io)]
-- **DROID**, *DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset*, 2024.03, RSS 2024. [[Paper](https://arxiv.org/abs/2403.12945)] [[Website](https://huggingface.co/KarlP/droid)]
-- **BridgeData V2**, *BridgeData V2: A Dataset for Robot Learning at Scale*, 2023.08, CoRL 2o23. [[Paper](https://arxiv.org/abs/2308.12952)] [[Website](https://rail-berkeley.github.io/bridgedata/)]
-- **HoNY**, *On Bringing Robots Home*, 2023.11. [[Paper](https://arxiv.org/abs/2311.16098)] [[Website](https://dobb-e.com)]
-- **Rh20t**, *Rh20t: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[Paper](https://arxiv.org/abs/2307.00595)] [[Website](https://rh20t.github.io)]
+- **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[📄 Paper](https://arxiv.org/abs/2110.07058)] [[🌍 Website](https://ego4d-data.org)]
+- **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
+- **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[📄 Paper](https://arxiv.org/abs/1706.04261)] [[🌍 Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
+- **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
+- **MimicGen**, *MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations*, 2023.10, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2310.17596)]
+- **RT-1**, *RT-1: ROBOTICS TRANSFORMER  FOR REAL-WORLD CONTROL AT SCALE*, 2022.12. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io/)]
+- **OXE**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]
+- **DROID**, *DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset*, 2024.03, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.12945)] [[🌍 Website](https://huggingface.co/KarlP/droid)]
+- **BridgeData V2**, *BridgeData V2: A Dataset for Robot Learning at Scale*, 2023.08, CoRL 2o23. [[📄 Paper](https://arxiv.org/abs/2308.12952)] [[🌍 Website](https://rail-berkeley.github.io/bridgedata/)]
+- **HoNY**, *On Bringing Robots Home*, 2023.11. [[📄 Paper](https://arxiv.org/abs/2311.16098)] [[🌍 Website](https://dobb-e.com)]
+- **Rh20t**, *Rh20t: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2307.00595)] [[🌍 Website](https://rh20t.github.io)]
 
 # Related Surveys
 
