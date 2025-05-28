@@ -114,6 +114,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## single-frame "image"
 
+* **SuSIE**, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models, 2023.10, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2310.10639)] [[🌍 Website](https://rail-berkeley.github.io/susie/)] [[💻 Code](https://github.com/kvablack/susie)]
 * **3D-VLA**, 3D-VLA: A 3D Vision-Language-Action Generative World Model, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.09631)] [[🌍 Website](https://vis-www.cs.umass.edu/3dvla/)]
 * **CoTDiffusion**, Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts, 2024.06, CVPR 2024. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html)] [[🌍 Website](https://cotdiffusion.github.io/)]
 * **Mobility VLA**, Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.07775)]
