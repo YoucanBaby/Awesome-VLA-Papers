@@ -112,15 +112,21 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Goal State as Action Tokens
 
+## single-frame "image"
+
 * **3D-VLA**, 3D-VLA: A 3D Vision-Language-Action Generative World Model, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.09631)] [[🌍 Website](https://vis-www.cs.umass.edu/3dvla/)]
-* **CoT-VLA**, CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models, 2025.03, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2503.22020)] [[🌍 Website](https://cot-vla.github.io/)]
+* **CoTDiffusion**, Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts, 2024.06, CVPR 2024. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html)] [[🌍 Website](https://cotdiffusion.github.io/)]
 * **Mobility VLA**, Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.07775)]
-* **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)] [[🌍 Website](https://flow-diffusion.github.io/)] [[💻 Code](https://github.com/flow-diffusion/AVDC)]
+* **CoT-VLA**, CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models, 2025.03, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2503.22020)] [[🌍 Website](https://cot-vla.github.io/)]
+
+## multi-frame video
+
 * **UniPi**, learning universal policies via text-guided video, 2023.02, NeurIPS 2023 spotlight. [[📄 Paper](https://arxiv.org/abs/2302.00111)] [[🌍 Website](https://universal-policy.github.io/unipi/)]
+* **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)] [[🌍 Website](https://flow-diffusion.github.io/)] [[💻 Code](https://github.com/flow-diffusion/AVDC)]
 * **VLP**, Video Language Planning, 2023.10. [[📄 Paper](https://arxiv.org/abs/2310.10625)] [[🌍 Website](https://video-language-planning.github.io/)] [[💻 Code](https://github.com/video-language-planning/vlp_code)]
 * **Gen2Act**, Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation, 2024.09, CoRL-X-Embodiment-WS 2024. [[📄 Paper](https://arxiv.org/abs/2409.16283)] [[🌍 Website](https://homangab.github.io/gen2act/)]
-* **CoTDiffusion**, Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts, 2024.06, CVPR 2024. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html)] [[🌍 Website](https://cotdiffusion.github.io/)]
-* **SuSIE**, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models, 2023.10, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2310.10639)] [[🌍 Website](https://rail-berkeley.github.io/susie/)] [[💻 Code](https://github.com/kvablack/susie)]
+* **Video Prediction Policy**, Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations, 2024.12, ICML 2025 Spotlight. [[📄 Paper](https://arxiv.org/abs/2412.14803)] [[🌍 Website](https://video-prediction-policy.github.io/)] [[💻 Code](https://github.com/roboterax/video-prediction-policy)]
+* **FLIP**, FLIP: Flow-Centric Generative Planning as General-Purpose Manipulation World Model, 2024.12, ICLR 2025 [[📄 Paper](https://arxiv.org/abs/2412.08261)] [[🌍 Website](https://nus-lins-lab.github.io/flipweb/)] [[💻 Code](https://github.com/HeegerGao/FLIP)]
 * **GEVRM**, GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation, 2025.02, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.09268)]
 
 # Latent Representation as Action Tokens
