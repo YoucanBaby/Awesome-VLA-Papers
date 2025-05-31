@@ -186,8 +186,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **OpenVLA-OFT**: *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, 2025.02, arXiv:2502.19645, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19645)] [[🌍 Website](https://openvla-oft.github.io)] [[💻 Code](https://github.com/moojink/openvla-oft)]
 
-- **HiRobot**: *Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models*, 2025.02, arXiv:2502.19417, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19417)] 
-
 - **JARVIS-VLA**: *Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse*,2025.3, arXiv:2503.16365, 2025. [[📄 Paper](https://arxiv.org/abs/2503.16365)] [[🌍 Website](https://craftjarvis.github.io/JarvisVLA/)] [[💻 Code](https://github.com/CraftJarvis/JarvisVLA)] [[🤗 Data](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)]
 
 - **HybridVLA**: *HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model*, 2025.03, arXiv:2503.10631, 2025. [[📄 Paper](https://arxiv.org/abs/2503.10631)] [[🌍 Website](https://hybrid-vla.github.io)] [[💻 Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
