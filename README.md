@@ -156,8 +156,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **MOO**: *Open-World Object Manipulation using Pre-trained Vision-Language Models*, 2023.03, The 7th Conference on Robot Learning, PMLR 229:3397-3417, 2023. [[📄 Paper](https://arxiv.org/abs/2303.00905)] [[🌍 Website](https://robot-moo.github.io)] 
 
-- **ACT (Action Chunking, ALOHA)**: *Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware*, 2023.04, Robotics: Science and Systems, 2023. [[📄 Paper](https://arxiv.org/abs/2304.13705)] [[🌍 Website](https://tonyzhaozh.github.io/aloha/)] [[💻 Code](https://github.com/tonyzhaozh/aloha)]
-
 - **RT-2**: *RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*, 2023.07, arXiv:2307.15818, 2023. [[📄 Paper](https://arxiv.org/abs/2307.15818)] [[🌍 Website](https://robotics-transformer2.github.io)]
 
 - **RT-X**: *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, 2024 IEEE International Conference on Robotics and Automation (ICRA), ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]  [[💻 Code](https://github.com/google-deepmind/open_x_embodiment)] [[🤗 Data](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit?pli=1&gid=0#gid=0)]
