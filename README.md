@@ -174,8 +174,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **OpenVLA**: *OpenVLA: An open-source vision-language-action model*, 2024.06, 8th Annual Conference on Robot Learning, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io)] [[💻 Code](https://github.com/openvla/openvla)]
 
-- **ROCKET-1**: *ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting*, 2024.10 NeurIPS 2024 Workshop Open-World Agents Oral, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2410.17856)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1/)]
-
 - **TinyVLA**: *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, IEEE Robotics and Automation Letters (RA-L) 2025. [[📄 Paper](https://arxiv.org/abs/2409.12514)] [[🌍 Website](https://tiny-vla.github.io/)] [[💻 Code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
 
 - **HiRT**: *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers*, 2024.09, PMLR 270:933-946, 2025. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
@@ -188,7 +186,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **CogACT**: *CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation*, 2024.11. [[📄 Paper](https://arxiv.org/abs/2411.19650)] [[🌍 Website](https://cogact.github.io/)] [[💻 Code](https://github.com/microsoft/CogACT?tab=readme-ov-file)] 
 
-- **Pi0-FAST**: *FAST: Efficient Action Tokenization for Vision-Language-Action Models*, 2025.01, arXiv:2501.09747, 2025. [[📄 Paper](https://arxiv.org/abs/2501.09747)] [[🌍 Website](https://www.pi.website/research/fast)] 
+- **π0-FAST**: *FAST: Efficient Action Tokenization for Vision-Language-Action Models*, 2025.01, arXiv:2501.09747, 2025. [[📄 Paper](https://arxiv.org/abs/2501.09747)] [[🌍 Website](https://www.pi.website/research/fast)] 
 
 - **OpenVLA-OFT**: *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, 2025.02, arXiv:2502.19645, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19645)] [[🌍 Website](https://openvla-oft.github.io)] [[💻 Code](https://github.com/moojink/openvla-oft)]
 
