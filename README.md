@@ -196,8 +196,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **GR00T N1**: *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03, arXiv:2503.14734, 2025. [[📄 Paper](https://arxiv.org/abs/2503.14734)] [[🌍 Website](https://developer.nvidia.com/isaac/gr00t)] [[💻 Code](https://github.com/NVIDIA/Isaac-GR00T?tab=readme-ov-file)]
 
-- **Cosmos-Reason1**: *Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning*, 2025.03, arxiv.org/abs/2503.15558, 2025. [[📄 Paper](https://arxiv.org/abs/2503.15558)] [[🌍 Website](https://research.nvidia.com/labs/dir/cosmos-reason1/)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-reason1?tab=readme-ov-file)]
-
 # Reasoning as Action Tokens
 
 - **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
