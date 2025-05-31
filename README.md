@@ -168,9 +168,9 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **Octo**: *Octo: An Open-Source Generalist Robot Policy*, 2024.05, First Workshop on Vision-Language Models for Navigation and Manipulation at ICRA, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)]
 
-- **Robo-Mamba**: *RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation*, 2024.06, Advances in Neural Information Processing Systems 37, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://sites.google.com/view/robomamba-web)]
+- **RoboMamba**: *RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation*, 2024.06, Advances in Neural Information Processing Systems 37, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://sites.google.com/view/robomamba-web)]
 
-- **Open-VLA**: *OpenVLA: An open-source vision-language-action model*, 2024.06, 8th Annual Conference on Robot Learning, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io)] [[💻 Code](https://github.com/openvla/openvla)]
+- **OpenVLA**: *OpenVLA: An open-source vision-language-action model*, 2024.06, 8th Annual Conference on Robot Learning, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io)] [[💻 Code](https://github.com/openvla/openvla)]
 
 - **ROCKET-1**: *ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting*, 2024.10 NeurIPS 2024 Workshop Open-World Agents Oral, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2410.17856)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1/)]
 
