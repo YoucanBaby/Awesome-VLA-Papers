@@ -152,13 +152,9 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **VIMA**: *VIMA: General Robot Manipulation with Multimodal Prompts*, 2022.10, ICML 2023. [[📄 Paper](https://arxiv.org/abs/2210.03094)] [[🌍 Website](https://vimalabs.github.io/)] [[💻 Code](https://github.com/vimalabs/VIMA)]
 
-- **Flow Matching**: *Flow Matching for Generative Modeling*, 2023.02, 11th International Conference on Learning Representations, ICLR 2023. [[📄 Paper](https://arxiv.org/abs/2210.02747)] 
-
 - **RT-1**: *RT-1: Robotics Transformer for Real-World Control at Scale*, 2022.12 arXiv:2212.06817v2, 2022. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io)] [[💻 Code](https://github.com/google-research/robotics_transformer)]
 
 - **MOO**: *Open-World Object Manipulation using Pre-trained Vision-Language Models*, 2023.03, The 7th Conference on Robot Learning, PMLR 229:3397-3417, 2023. [[📄 Paper](https://arxiv.org/abs/2303.00905)] [[🌍 Website](https://robot-moo.github.io)] 
-
-- **PaLM-E**: *PaLM-E: An Embodied Multimodal Language Model*, 2023.03, Proceedings of the 40th International Conference on Machine Learning, 2023. [[📄 Paper](https://arxiv.org/abs/2303.03378)]  [[🌍 Website](https://palm-e.github.io/)] 
 
 - **ACT (Action Chunking, ALOHA)**: *Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware*, 2023.04, Robotics: Science and Systems, 2023. [[📄 Paper](https://arxiv.org/abs/2304.13705)] [[🌍 Website](https://tonyzhaozh.github.io/aloha/)] [[💻 Code](https://github.com/tonyzhaozh/aloha)]
 
