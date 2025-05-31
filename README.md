@@ -184,7 +184,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **Pi0-FAST**: *FAST: Efficient Action Tokenization for Vision-Language-Action Models*, 2025.01, arXiv:2501.09747, 2025. [[📄 Paper](https://arxiv.org/abs/2501.09747)] [[🌍 Website](https://www.pi.website/research/fast)] 
 
-- **Openvla-oft**: *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, 2025.02, arXiv:2502.19645, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19645)] [[🌍 Website](https://openvla-oft.github.io)] [[💻 Code](https://github.com/moojink/openvla-oft)]
+- **OpenVLA-OFT**: *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, 2025.02, arXiv:2502.19645, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19645)] [[🌍 Website](https://openvla-oft.github.io)] [[💻 Code](https://github.com/moojink/openvla-oft)]
 
 - **HiRobot**: *Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models*, 2025.02, arXiv:2502.19417, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19417)] 
 
