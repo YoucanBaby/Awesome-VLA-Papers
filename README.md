@@ -166,6 +166,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **LEO**: *An Embodied Generalist Agent in 3D World*, 2023.11, PMLR 235:20413-20451, 2024. [[📄 Paper](https://arxiv.org/abs/2311.12871)] [[🌍 Website](https://embodied-generalist.github.io/)] [[💻 Code](https://github.com/embodied-generalist/embodied-generalist?tab=readme-ov-file)]
 
+- **GR-1**: *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*, 2023.12, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2312.13139.pdf)] [[🌍 Website](https://gr1-manipulation.github.io/)]  [[💻 Code](https://github.com/bytedance/GR-1)] 
+
 - **Octo**: *Octo: An Open-Source Generalist Robot Policy*, 2024.05, First Workshop on Vision-Language Models for Navigation and Manipulation at ICRA, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)]
 
 - **RoboMamba**: *RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation*, 2024.06, Advances in Neural Information Processing Systems 37, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://sites.google.com/view/robomamba-web)]
@@ -178,7 +180,11 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **HiRT**: *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers*, 2024.09, PMLR 270:933-946, 2025. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
 
+- **GR-2**: *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.06158v1)] [[🌍 Website](https://gr2-manipulation.github.io/)]
+
 - **RDT-1B**: *RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.07864)] [[🌍 Website](https://rdt-robotics.github.io/rdt-robotics/)] [[💻 Code](https://rdt-robotics.github.io/rdt-robotics/)]
+
+- **π0**: *π0 : A Vision-Language-Action Flow Model for General Robot Control*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.24164)] [[🌍 Website](https://www.physicalintelligence.company/blog/pi0)]
 
 - **CogACT**: *CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation*, 2024.11. [[📄 Paper](https://arxiv.org/abs/2411.19650)] [[🌍 Website](https://cogact.github.io/)] [[💻 Code](https://github.com/microsoft/CogACT?tab=readme-ov-file)] 
 
