@@ -79,12 +79,12 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Bounding Box
 
-- **A3VLM**, *A3VLM: Actionable Articulation-Aware Vision Language Model*, 2024.6, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.07549)] [[💻 Code](https://github.com/changhaonan/A3VLM)]
 - **GPT-4V**, *GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration*, 2023.11, RA-L 2024. [[📄 Paper](https://arxiv.org/abs/2311.12015)] [[🌍 Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)] [[💻 Code](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts)]
+- **A3VLM**, *A3VLM: Actionable Articulation-Aware Vision Language Model*, 2024.6, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.07549)] [[💻 Code](https://github.com/changhaonan/A3VLM)]
+- **DexGraspVLA**, *DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.20900)] [[🌍 Website](https://dexgraspvla.github.io/)] [[💻 Code](https://github.com/Psi-Robot/DexGraspVLA)]
 
 ## Segmentation Mask
 
-- **DexGraspVLA**, *DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.20900)] [[🌍 Website](https://dexgraspvla.github.io/)] [[💻 Code](https://github.com/Psi-Robot/DexGraspVLA)]
 - **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
 - **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
 
