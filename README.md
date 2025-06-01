@@ -220,17 +220,26 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Scalable Data Sources
 
-- **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[📄 Paper](https://arxiv.org/abs/2110.07058)] [[🌍 Website](https://ego4d-data.org)]
-- **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
+## Foundation Tier: Web-Scale Human Video Data
+
 - **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[📄 Paper](https://arxiv.org/abs/1706.04261)] [[🌍 Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
-- **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
+- **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
+- **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[📄 Paper](https://arxiv.org/abs/2110.07058)] [[🌍 Website](https://ego4d-data.org)]
+
+## Intermediate Tier: Synthetic and Simulated Data
+
 - **MimicGen**, *MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations*, 2023.10, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2310.17596)]
+- **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
+- **AgiBot DigitalWorld**, *AgiBot DigitalWorld*, 2025.02. [[🌍 Website](https://agibot-digitalworld.com/)]
+
+## Apex Tier: Real-world Robotic Manipulation Data
+
 - **RT-1**, *RT-1: ROBOTICS TRANSFORMER  FOR REAL-WORLD CONTROL AT SCALE*, 2022.12. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io/)]
-- **OXE**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]
-- **DROID**, *DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset*, 2024.03, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.12945)] [[🌍 Website](https://huggingface.co/KarlP/droid)]
-- **BridgeData V2**, *BridgeData V2: A Dataset for Robot Learning at Scale*, 2023.08, CoRL 2o23. [[📄 Paper](https://arxiv.org/abs/2308.12952)] [[🌍 Website](https://rail-berkeley.github.io/bridgedata/)]
-- **HoNY**, *On Bringing Robots Home*, 2023.11. [[📄 Paper](https://arxiv.org/abs/2311.16098)] [[🌍 Website](https://dobb-e.com)]
 - **Rh20t**, *Rh20t: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2307.00595)] [[🌍 Website](https://rh20t.github.io)]
+- **BridgeData V2**, *BridgeData V2: A Dataset for Robot Learning at Scale*, 2023.08, CoRL 2o23. [[📄 Paper](https://arxiv.org/abs/2308.12952)] [[🌍 Website](https://rail-berkeley.github.io/bridgedata/)]
+- **OXE**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]
+- **HoNY**, *On Bringing Robots Home*, 2023.11. [[📄 Paper](https://arxiv.org/abs/2311.16098)] [[🌍 Website](https://dobb-e.com)]
+- **DROID**, *DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset*, 2024.03, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.12945)] [[🌍 Website](https://huggingface.co/KarlP/droid)]
 
 # Related Surveys
 
