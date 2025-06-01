@@ -216,6 +216,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **AlphaDrive**, *AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning*, 2025.03, 2025. [[📄 Paper](https://arxiv.org/abs/2503.07608)] [[🌍 Website](https://github.com/hustvl/AlphaDrive)]
 
+- **Cosmos-Reason1**: *Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning*, 2025.03, arxiv.org/abs/2503.15558, 2025. [[📄 Paper](https://arxiv.org/abs/2503.15558)] [[🌍 Website](https://research.nvidia.com/labs/dir/cosmos-reason1/)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-reason1?tab=readme-ov-file)]
+
 # Scalable Data Sources
 
 - **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[📄 Paper](https://arxiv.org/abs/2110.07058)] [[🌍 Website](https://ego4d-data.org)]
