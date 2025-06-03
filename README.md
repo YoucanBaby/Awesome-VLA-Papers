@@ -220,19 +220,19 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Scalable Data Sources
 
-## Foundation Tier: Web-Scale Human Video Data
+## Foundation Layer: Web-Scale Human Video Data
 
 - **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[📄 Paper](https://arxiv.org/abs/1706.04261)] [[🌍 Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
 - **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
 - **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[📄 Paper](https://arxiv.org/abs/2110.07058)] [[🌍 Website](https://ego4d-data.org)]
 
-## Intermediate Tier: Synthetic and Simulated Data
+## Middle Layer: Synthetic and Simulation Data
 
 - **MimicGen**, *MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations*, 2023.10, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2310.17596)]
 - **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
 - **AgiBot DigitalWorld**, *AgiBot DigitalWorld*, 2025.02. [[🌍 Website](https://agibot-digitalworld.com/)]
 
-## Apex Tier: Real-world Robotic Manipulation Data
+## Apex Layer: Real-world Robot Manipulation Data
 
 - **RT-1**, *RT-1: ROBOTICS TRANSFORMER  FOR REAL-WORLD CONTROL AT SCALE*, 2022.12. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io/)]
 - **Rh20t**, *Rh20t: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2307.00595)] [[🌍 Website](https://rh20t.github.io)]
