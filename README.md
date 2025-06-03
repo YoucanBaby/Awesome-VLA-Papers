@@ -97,7 +97,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Trajectory as Action Tokens
 
-## Robotics
+## Robot Manipulation
 
 - **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
 - **Rt-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
@@ -118,7 +118,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Goal State as Action Tokens
 
-## single-frame "image"
+## Single-Frame Image / Point Cloud
 
 * **SuSIE**, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models, 2023.10, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2310.10639)] [[🌍 Website](https://rail-berkeley.github.io/susie/)] [[💻 Code](https://github.com/kvablack/susie)]
 * **3D-VLA**, 3D-VLA: A 3D Vision-Language-Action Generative World Model, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.09631)] [[🌍 Website](https://vis-www.cs.umass.edu/3dvla/)]
@@ -126,7 +126,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 * **Mobility VLA**, Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.07775)]
 * **CoT-VLA**, CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models, 2025.03, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2503.22020)] [[🌍 Website](https://cot-vla.github.io/)]
 
-## multi-frame video
+## Multi-Frame Video
 
 * **UniPi**, learning universal policies via text-guided video, 2023.02, NeurIPS 2023 spotlight. [[📄 Paper](https://arxiv.org/abs/2302.00111)] [[🌍 Website](https://universal-policy.github.io/unipi/)]
 * **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)] [[🌍 Website](https://flow-diffusion.github.io/)] [[💻 Code](https://github.com/flow-diffusion/AVDC)]
