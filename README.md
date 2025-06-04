@@ -237,7 +237,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Apex Layer: Real-world Robot Manipulation Data
 
 - **RT-1**, *RT-1: ROBOTICS TRANSFORMER  FOR REAL-WORLD CONTROL AT SCALE*, 2022.12. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io/)]
-- **Rh20t**, *Rh20t: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2307.00595)] [[🌍 Website](https://rh20t.github.io)]
+- **RH20T**, *RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2307.00595)] [[🌍 Website](https://rh20t.github.io)]
 - **BridgeData V2**, *BridgeData V2: A Dataset for Robot Learning at Scale*, 2023.08, CoRL 2o23. [[📄 Paper](https://arxiv.org/abs/2308.12952)] [[🌍 Website](https://rail-berkeley.github.io/bridgedata/)]
 - **OXE**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]
 - **HoNY**, *On Bringing Robots Home*, 2023.11. [[📄 Paper](https://arxiv.org/abs/2311.16098)] [[🌍 Website](https://dobb-e.com)]
