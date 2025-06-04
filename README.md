@@ -18,6 +18,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Vision Foundation Models
 
+- **Depth Anything**, *Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data*, 2024.01, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2401.10891)] [[🌍 Website](https://depth-anything.github.io/)] [[💻 Code](https://github.com/LiheYoung/Depth-Anything)]
+
 - **SAM**, *Segment anything*, 2023.04, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2304.02643)] [[🌍 Website](https://segment-anything.com/)] [[💻 Code](https://github.com/facebookresearch/segment-anything)]
 
 ## Vision Language Models
