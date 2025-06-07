@@ -89,6 +89,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
 - **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
+- **ROCKET-1**, *ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting*, 2024.11, CVPR 2025. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cai_ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting_CVPR_2025_paper.html)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1)]
 
 ## Affordance Map
 
