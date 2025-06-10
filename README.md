@@ -44,7 +44,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Reflective Planning**, *Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.16707)] [[🌍 Website](https://reflect-vlm.github.io/)] [[💻 Code](https://github.com/yunhaif/reflect-vlm)] [[📊 Dataset](https://huggingface.co/datasets/yunhaif/ReflectVLM-data-expert)] [[🤗 Model](https://huggingface.co/collections/yunhaif/reflectvlm-67b95e4316ab2d5f71ad4b25)]
 - **Hi Robot**, *Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.19417)] [[🌍 Website](https://www.pi.website/research/hirobot)]
 - **RoboBrain**, *RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.21257)] [[🌍 Website](https://superrobobrain.github.io/)] [[💻 Code](https://github.com/FlagOpen/RoboBrain)] [[📊 Dataset](https://huggingface.co/datasets/BAAI/ShareRobot)]
-- **pi_{0.5}**, *pi_{0.5}: a Vision-Language-Action Model with Open-World Generalization*, 2025.04. [[📄 Paper](https://arxiv.org/abs/2504.16054)] [[🌍 Website](https://www.physicalintelligence.company/blog/pi05)]
+- **$\pi_{0.5}$**, $\pi_{0.5}$*: a Vision-Language-Action Model with Open-World Generalization*, 2025.04. [[📄 Paper](https://arxiv.org/abs/2504.16054)] [[🌍 Website](https://www.physicalintelligence.company/blog/pi05)]
 
 ## Language Motion
 
