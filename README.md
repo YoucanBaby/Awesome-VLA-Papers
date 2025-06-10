@@ -28,7 +28,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Language Plan
 
-- **DeComplex**, *DeComplex: Task planning from complex natural instructions by a collocating robot*, 2020.08. [[📄 Paper](https://arxiv.org/abs/2008.10084)]
 - **Language Planner**, *Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents*, 2022.01, ICML 2022. [[📄 Paper](https://arxiv.org/abs/2201.07207)] [[🌍 Website](https://wenlong.page/language-planner/)] [[💻 Code](https://github.com/huangwl18/language-planner)]
 - **Socratic Models**, *Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language*, 2022.04, ICLR 2023. [[📄 Paper](https://arxiv.org/abs/2204.00598)] [[🌍 Website](https://socraticmodels.github.io/)] [[💻 Code](https://github.com/google-research/google-research/tree/master/socraticmodels)]
 - **SayCan**, *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances*, 2022.04. [[📄 Paper](https://arxiv.org/abs/2204.01691)] [[🌍 Website](https://say-can.github.io/)] [[💻 Code](https://github.com/google-research/google-research/tree/master/saycan)]
