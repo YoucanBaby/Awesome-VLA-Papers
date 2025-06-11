@@ -187,7 +187,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **RDT-1B**: *RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.07864)] [[🌍 Website](https://rdt-robotics.github.io/rdt-robotics/)] [[💻 Code](https://rdt-robotics.github.io/rdt-robotics/)]
 
-- **$\pi_0$**: *$\pi_0$ : A Vision-Language-Action Flow Model for General Robot Control*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.24164)] [[🌍 Website](https://www.physicalintelligence.company/blog/pi0)]
+- **$\pi_0$**: $\pi_0$*: A Vision-Language-Action Flow Model for General Robot Control*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.24164)] [[🌍 Website](https://www.physicalintelligence.company/blog/pi0)]
 
 - **CogACT**: *CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation*, 2024.11. [[📄 Paper](https://arxiv.org/abs/2411.19650)] [[🌍 Website](https://cogact.github.io/)] [[💻 Code](https://github.com/microsoft/CogACT?tab=readme-ov-file)] 
 
@@ -205,7 +205,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **GR00T N1**: *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03, arXiv:2503.14734, 2025. [[📄 Paper](https://arxiv.org/abs/2503.14734)] [[🌍 Website](https://developer.nvidia.com/isaac/gr00t)] [[💻 Code](https://github.com/NVIDIA/Isaac-GR00T?tab=readme-ov-file)]
 
-- **\pi_0$+KI**: *Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better*, 2025.5, arXiv:2505.23705, 2025. [[📄 Paper](https://arxiv.org/abs/2505.23705)] [[🌍 Website](https://www.pi.website/research/knowledge_insulation)]
+- **$\pi_0$+KI**: *Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better*, 2025.5, arXiv:2505.23705, 2025. [[📄 Paper](https://arxiv.org/abs/2505.23705)] [[🌍 Website](https://www.pi.website/research/knowledge_insulation)]
 
 - **RTC**: *Real-Time Execution of Action Chunking Flow Policies*, 2025.6, arXiv:2506.07339, 2025. [[📄 Paper](https://www.arxiv.org/abs/2506.07339)] [[🌍 Website](https://www.pi.website/research/real_time_chunking)]
 
