@@ -61,7 +61,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **ChatGPT for Robotics**, *ChatGPT for Robotics: Design Principles and Model Abilities*, 2023.07, IEEE Access 2024. [[📄 Paper](https://arxiv.org/pdf/2306.17582)] [[🌍 Website](https://www.microsoft.com/en-us/research/articles/chatgpt-for-robotics/)] [[💻 Code](https://github.com/microsoft/PromptCraft-Robotics)]
 - **RoboCodeX**, *RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis*, 2024.02, ICML 2024. [[📄 Paper](https://arxiv.org/pdf/2402.16117)] [[🌍 Website](https://sites.google.com/view/robocodexplus)] [[💻 Code](https://github.com/RoboCodeX-source/RoboCodeX_code)]
 - **RoboScript**, *RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation*, 2024.02. [[📄 Paper](https://arxiv.org/pdf/2402.14623)]
-- **Bi-VLA**, *Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations*, 2024.08, IEEE SMC 2024. [[📄 Paper](https://arxiv.org/pdf/2405.06039)]
+- **Bi-VLA**, *Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations*, 2024.05, IEEE SMC 2024. [[📄 Paper](https://arxiv.org/pdf/2405.06039)]
 - **VLMimic**, *VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions*, 2024.10, NeurIPS 2024. [[📄 Paper](https://arxiv.org/pdf/2410.20927)] [[🌍 Website](https://vlmimic.github.io)] 
 - **SeeDo**, *VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model*, 2024.11. [[📄 Paper](https://arxiv.org/pdf/2410.08792)] [[🌍 Website](https://ai4ce.github.io/SeeDo/)] [[💻 Code](https://github.com/ai4ce/SeeDo)]
 
