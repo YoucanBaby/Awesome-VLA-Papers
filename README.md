@@ -155,9 +155,9 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **CLIPort**: *CLIPort: What and Where Pathways for Robotic Manipulation*, 2021.09, Proceedings of the 5th Conference on Robot Learning, PMLR 164:894-906, 2022. [[📄 Paper](https://arxiv.org/abs/2109.12098)] [[🌍 Website](https://cliport.github.io)] [[💻 Code](https://github.com/cliport/cliport)]
 
-- **BC-Z**: *Zero-Shot Task Generalization with Robotic Imitation Learning*, 2021.09, 5th Annual Conference on Robot Learning, CoRL 2021. [[📄 Paper](https://openreview.net/forum?id=8kbp23tSGYv)] [[🌍 Website](https://sites.google.com/view/bc-z/home?pli=1)] [[💻 Code](https://www.catalyzex.com/paper/bc-z-zero-shot-task-generalization-with/code)]
+- **BC-Z**: *Zero-Shot Task Generalization with Robotic Imitation Learning*, 2021.09, 5th Annual Conference on Robot Learning, CoRL 2021. [[📄 Paper](https://arxiv.org/abs/2202.02005)] [[🌍 Website](https://sites.google.com/view/bc-z/home?pli=1)] [[💻 Code](https://www.catalyzex.com/paper/bc-z-zero-shot-task-generalization-with/code)]
 
-- **Gato**: *A Generalist Agent*, 2022.05, Transactions on Machine Learning Research, 2022. [[📄 Paper](https://arxiv.org/abs/2205.06175)]
+- **Gato**: *A Generalist Agent*, 2022.05, Transactions on Machine Learning Research, 2022. [[📄 Paper](https://arxiv.org/abs/2205.06175)] [[🌍 Website](https://deepmind.google/discover/blog/a-generalist-agent/)]
 
 - **VIMA**: *VIMA: General Robot Manipulation with Multimodal Prompts*, 2022.10, ICML 2023. [[📄 Paper](https://arxiv.org/abs/2210.03094)] [[🌍 Website](https://vimalabs.github.io/)] [[💻 Code](https://github.com/vimalabs/VIMA)]
 
