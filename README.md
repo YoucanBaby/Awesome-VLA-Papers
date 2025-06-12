@@ -53,17 +53,12 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Code as Action Tokens
 
-% - **Socratic Models**, *Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language*, 2022.05. [[📄 Paper](https://arxiv.org/pdf/2204.00598)] [[🌍 Website](https://socraticmodels.github.io)] [[💻 Code](https://github.com/google-research/google-research/tree/master/socraticmodels)]
 - **ProgPrompt**, *ProgPrompt: Generating Situated Robot Task Plans using Large Language Models*, 2022.09, ICRA 2023. [[📄 Paper](https://arxiv.org/pdf/2209.11302)] [[🌍 Website](https://progprompt.github.io)] [[💻 Code](https://github.com/NVlabs/progprompt-vh)]
 - **Text2Motion**, *Text2Motion: From Natural Language Instructions to Feasible Plans*, 2023.03, ICRL 2023. [[📄 Paper](https://arxiv.org/pdf/2303.12153)] [[🌍 Website](https://sites.google.com/stanford.edu/text2motion)] 
 - **Code as Policies**, *Code as Policies: Language Model Programs for Embodied Control*, 2023.05, ICRA 2023. [[📄 Paper](https://arxiv.org/pdf/2209.07753)] [[🌍 Website](https://code-as-policies.github.io)] [[💻 Code](https://github.com/google-research/google-research/tree/master/code_as_policies)]
-% - **Instruct2Act**, *Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model*, 2023.05. [[📄 Paper](https://arxiv.org/pdf/2305.11176)] [[💻 Code](https://github.com/OpenGVLab/Instruct2Act)]
 - **ChatGPT for Robotics**, *ChatGPT for Robotics: Design Principles and Model Abilities*, 2023.07, IEEE Access 2024. [[📄 Paper](https://arxiv.org/pdf/2306.17582)] [[🌍 Website](https://www.microsoft.com/en-us/research/articles/chatgpt-for-robotics/)] [[💻 Code](https://github.com/microsoft/PromptCraft-Robotics)]
 - **RoboCodeX**, *RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis*, 2024.02, ICML 2024. [[📄 Paper](https://arxiv.org/pdf/2402.16117)] [[🌍 Website](https://sites.google.com/view/robocodexplus)] [[💻 Code](https://github.com/RoboCodeX-source/RoboCodeX_code)]
 - **RoboScript**, *RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation*, 2024.02. [[📄 Paper](https://arxiv.org/pdf/2402.14623)]
-% - **Bi-VLA**, *Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations*, 2024.05, IEEE SMC 2024. [[📄 Paper](https://arxiv.org/pdf/2405.06039)]
-% - **VLMimic**, *VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions*, 2024.10, NeurIPS 2024. [[📄 Paper](https://arxiv.org/pdf/2410.20927)] [[🌍 Website](https://vlmimic.github.io)] 
-% - **SeeDo**, *VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model*, 2024.11. [[📄 Paper](https://arxiv.org/pdf/2410.08792)] [[🌍 Website](https://ai4ce.github.io/SeeDo/)] [[💻 Code](https://github.com/ai4ce/SeeDo)]
 
 # Affordance as Action Tokens
 
