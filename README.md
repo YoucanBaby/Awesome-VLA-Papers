@@ -99,7 +99,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
 - **Rt-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
 - **ATM**, *Any-point Trajectory Modeling for Policy Learning*, 2023.12, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2401.00025)] [[🌍 Website](https://xingyu-lin.github.io/atm/)] [[💻 Code](https://github.com/Large-Trajectory-Model/ATM)]
-- **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[🤗 Data](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
+- **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[📊 Dataset](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
 - **Im2Flow2Act**, *Flow as the Cross-Domain Manipulation Interface*, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.15208)] [[🌍 Website](https://im-flow-act.github.io)] [[💻 Code](https://github.com/real-stanford/im2Flow2Act)]
 - **FLIP**, *FLIP : Flow-Centric Generative Planning as General-Purpose Manipulation World Model*, 2024.12, ICLR 2025 Poster. [[📄 Paper](https://arxiv.org/abs/2412.08261)] [[🌍 Website](https://nus-lins-lab.github.io/flipweb/)] [[💻 Code](https://github.com/HeegerGao/FLIP)]
 - **HAMSTER**, *HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation*, 2025.02, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2502.05485)] [[🌍 Website](https://hamster-robot.github.io)]
@@ -109,7 +109,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Autonomous Driving
 
 - **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
-- **CoVLA**, *CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving*, 2024.08, WACV 2025 Oral. [[📄 Paper](https://arxiv.org/abs/2408.10845)] [[🌍 Website](https://turingmotors.github.io/covla-ad/)] [[🤗 Data](https://huggingface.co/datasets/turing-motors/CoVLA-Dataset)]
+- **CoVLA**, *CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving*, 2024.08, WACV 2025 Oral. [[📄 Paper](https://arxiv.org/abs/2408.10845)] [[🌍 Website](https://turingmotors.github.io/covla-ad/)] [[📊 Dataset](https://huggingface.co/datasets/turing-motors/CoVLA-Dataset)]
 - **EMMA**, *EMMA: End-to-End Multimodal Model for Autonomous Driving*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.23262)]
 - **VLM-E2E**, *VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.18042)]
 
@@ -134,15 +134,15 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Latent Representation as Action Tokens
 
-- **BeT**, *Behavior Transformers: Cloning k modes with one stone*, 2022.06, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2206.11251)] [[🌍 Website](https://mahis.life/bet/)] [[💻 Code](https://github.com/notmahi/bet)] [[🤗 Data](https://osf.io/983qz/)]
+- **BeT**, *Behavior Transformers: Cloning k modes with one stone*, 2022.06, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2206.11251)] [[🌍 Website](https://mahis.life/bet/)] [[💻 Code](https://github.com/notmahi/bet)] [[📊 Dataset](https://osf.io/983qz/)]
 - **GROOT**, *GROOT: Learning to Follow Instructions by Watching Gameplay Videos*, 2023.10, ICLR 2024 Spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08235)] [[🌍 Website](https://craftjarvis.github.io/GROOT/)] [[💻 Code](https://github.com/CraftJarvis/GROOT)] 
 - **Genie**, *Genie: Generative Interactive Environments*, 2024.02, ICML 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2402.15391)] [[🌍 Website](https://sites.google.com/view/genie-2024/home)]
 - **VQ-BeT**, *Behavior Generation with Latent Actions*, 2024.03, ICML 2024 Spotlight. [[📄 Paper](https://arxiv.org/abs/2403.03181)] [[🌍 Website](https://sjlee.cc/vq-bet/)] [[💻 Code](https://github.com/jayLEE0301/vq_bet_official)]
-- **OmniJARVIS**, *OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.00114)] [[🌍 Website](https://omnijarvis.github.io)] [[💻 Code](https://github.com/CraftJarvis/OmniJarvis)] [[🤗 Data](https://huggingface.co/datasets/zhwang4ai/Minecraft-EmbodiedQA-300k)]
+- **OmniJARVIS**, *OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.00114)] [[🌍 Website](https://omnijarvis.github.io)] [[💻 Code](https://github.com/CraftJarvis/OmniJarvis)] [[📊 Dataset](https://huggingface.co/datasets/zhwang4ai/Minecraft-EmbodiedQA-300k)]
 - **QueST**, *QueST: Self-Supervised Skill Abstractions for Learning Continuous Control*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.15840)] [[🌍 Website](https://quest-model.github.io)] [[💻 Code](https://github.com/pairlab/QueST)]
 - **LAPA**, *LAPA: Latent Action Pretraining from Videos*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.11758)] [[🌍 Website](https://latentactionpretraining.github.io)] [[💻 Code](https://github.com/LatentActionPretraining/LAPA)] [[🤗 Model](https://huggingface.co/latent-action-pretraining/LAPA-7B-openx)]
 - **GROOT-2**, *GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents*, 2024.12, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2412.10410)] 
-- **GO-1**, *AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.06669)] [[🌍 Website](https://agibot-world.com)] [[💻 Code](https://github.com/OpenDriveLab/AgiBot-World)] [[🤗 Data](https://huggingface.co/agibot-world)]
+- **GO-1**, *AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.06669)] [[🌍 Website](https://agibot-world.com)] [[💻 Code](https://github.com/OpenDriveLab/AgiBot-World)] [[📊 Dataset](https://huggingface.co/agibot-world)]
 - **UniVLA**, *UniVLA: Learning to Act Anywhere with Task-centric Latent Actions*, 2025.05, RSS2025. [[📄 Paper](https://arxiv.org/abs/2505.06111)] [[💻 Code](https://github.com/OpenDriveLab/UniVLA)] [[🤗 Model](https://github.com/OpenDriveLab/UniVLA#ckpts)]
 
 # Raw Action as Action Tokens
@@ -163,7 +163,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **RT-2**: *RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*, 2023.07, arXiv:2307.15818, 2023. [[📄 Paper](https://arxiv.org/abs/2307.15818)] [[🌍 Website](https://robotics-transformer2.github.io)]
 
-- **RT-X**: *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, 2024 IEEE International Conference on Robotics and Automation (ICRA), ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]  [[💻 Code](https://github.com/google-deepmind/open_x_embodiment)] [[🤗 Data](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit?pli=1&gid=0#gid=0)]
+- **RT-X**: *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, 2024 IEEE International Conference on Robotics and Automation (ICRA), ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]  [[💻 Code](https://github.com/google-deepmind/open_x_embodiment)] [[📊 Dataset](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit?pli=1&gid=0#gid=0)]
 
 - **RoboFlamingo**: *Vision-Language Foundation Models as Effective Robot Imitators*, 2023.11, The Twelfth International Conference on Learning Representations, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.01378)] [[🌍 Website](https://roboflamingo.github.io)] [[💻 Code](https://github.com/RoboFlamingo/RoboFlamingo)]
 
@@ -193,7 +193,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 - **OpenVLA-OFT**: *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, 2025.02, arXiv:2502.19645, 2025. [[📄 Paper](https://arxiv.org/abs/2502.19645)] [[🌍 Website](https://openvla-oft.github.io)] [[💻 Code](https://github.com/moojink/openvla-oft)]
 
-- **JARVIS-VLA**: *Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse*,2025.3, arXiv:2503.16365, 2025. [[📄 Paper](https://arxiv.org/abs/2503.16365)] [[🌍 Website](https://craftjarvis.github.io/JarvisVLA/)] [[💻 Code](https://github.com/CraftJarvis/JarvisVLA)] [[🤗 Data](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)]
+- **JARVIS-VLA**: *Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse*,2025.3, arXiv:2503.16365, 2025. [[📄 Paper](https://arxiv.org/abs/2503.16365)] [[🌍 Website](https://craftjarvis.github.io/JarvisVLA/)] [[💻 Code](https://github.com/CraftJarvis/JarvisVLA)] [[📊 Dataset](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)]
 
 - **HybridVLA**: *HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model*, 2025.03, arXiv:2503.10631, 2025. [[📄 Paper](https://arxiv.org/abs/2503.10631)] [[🌍 Website](https://hybrid-vla.github.io)] [[💻 Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
 
