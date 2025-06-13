@@ -40,6 +40,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Bi-VLA**, *Bi-vla: Vision-language-action model-based system for bimanual robotic dexterous manipulations*, 2024.05, SMC 2024. [[📄 Paper](https://arxiv.org/abs/2405.06039)]
 - **RoboMamba**, *RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation*, 2024.06, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.04339)] [[🌍 Website](https://sites.google.com/view/robomamba-web)] [[💻 Code](https://github.com/lmzpai/roboMamba)]
 - **ReplanVLM**, *ReplanVLM: Replanning Robotic Tasks with Visual Language Models*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.21762v1)]
+- **BUMBLE**, *BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.06237)] [[🌍 Website](https://robin-lab.cs.utexas.edu/BUMBLE/)] [[💻 Code](https://github.com/UT-Austin-RobIn/BUMBLE)]
 - **Reflective Planning**, *Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.16707)] [[🌍 Website](https://reflect-vlm.github.io/)] [[💻 Code](https://github.com/yunhaif/reflect-vlm)] [[📊 Dataset](https://huggingface.co/datasets/yunhaif/ReflectVLM-data-expert)] [[🤗 Model](https://huggingface.co/collections/yunhaif/reflectvlm-67b95e4316ab2d5f71ad4b25)]
 - **Hi Robot**, *Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.19417)] [[🌍 Website](https://www.pi.website/research/hirobot)]
 - **RoboBrain**, *RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete*, 2025.02, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.21257)] [[🌍 Website](https://superrobobrain.github.io/)] [[💻 Code](https://github.com/FlagOpen/RoboBrain)] [[📊 Dataset](https://huggingface.co/datasets/BAAI/ShareRobot)]
@@ -48,7 +49,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Language Motion
 
 - **RT-H**, *RT-H: Action Hierarchies Using Language*, 2024.03. [[📄 Paper](https://arxiv.org/abs/2403.01823)] [[🌍 Website](https://rt-hierarchy.github.io/)]
-- **BUMBLE**, *BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.06237)] [[🌍 Website](https://robin-lab.cs.utexas.edu/BUMBLE/)] [[💻 Code](https://github.com/UT-Austin-RobIn/BUMBLE)]
 - **NaVILA**, *NaVILA: Legged Robot Vision-Language-Action Model for Navigation*, 2024.12, RSS 2025. [[📄 Paper](https://arxiv.org/abs/2412.04453)] [[🌍 Website](https://navila-bot.github.io/)] [[💻 Code](https://github.com/yang-zj1026/legged-loco)]
 
 # Code as Action Tokens
