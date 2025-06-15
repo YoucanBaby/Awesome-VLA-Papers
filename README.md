@@ -7,14 +7,39 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Language Foundation Models
 
 - **Transformer**, *Attention is All You Need*, 2017.06, NIPS 2017. [[📄 Paper](https://arxiv.org/abs/1706.03762)]
-- **BERT**, *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*, 2018.10, NAACL 2019. [[📄 Paper](https://arxiv.org/abs/1810.04805)]
 - **USE**, *Universal sentence encoder*, 2018.03. [[📄 Paper](https://arxiv.org/abs/1803.11175)]
-- **MUSE**, *Multilingual universal sentence encoder for semantic retrieval*, 2019.07. [[📄 Paper](https://arxiv.org/abs/1907.04307)]
-- **T5**, *Exploring the limits of transfer learning with a unified text-to-text transformer*, 2019.10, JMLR 2020. [[📄 Paper](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)]
 - **GPT-1**, *Improving language understanding by generative pre-training*, 2018.06. [[📄 Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
+- **BERT**, *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*, 2018.10, NAACL 2019. [[📄 Paper](https://arxiv.org/abs/1810.04805)]
 - **GPT-2**, *Language Models are Unsupervised Multitask Learners*, 2019.02. [[📄 Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)] [[💻 Code](https://github.com/openai/gpt-2)]
+- **MUSE**, *Multilingual universal sentence encoder for semantic retrieval*, 2019.07. [[📄 Paper](https://arxiv.org/abs/1907.04307)] [[💻 Code](https://github.com/facebookresearch/MUSE)]
+- **T5**, *Exploring the limits of transfer learning with a unified text-to-text transformer*, 2019.10, JMLR 2020. [[📄 Paper](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)]
 - **GPT-3**, *Language Models are Few-Shot Learners*, 2020.05, NeurIPS 2020. [[📄 Paper](https://arxiv.org/abs/2005.14165)]
 - **InstructGPT**, *Training language models to follow instructions with human feedback*, 2022.03, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2203.02155)]
+- **Chinchilla**, *Training Compute-Optimal Large Language Models*, 2022.03, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2203.15556)]
+- **ChatGPT**, 2022.11. [[🌍 Blog](https://openai.com/index/chatgpt/?utm_source=chatgpt.com)]
+- **LLaMA**, *LLaMA: Open and Efficient Foundation Language Models*, 2023.02. [[📄 Paper](https://arxiv.org/abs/2302.13971)] [[💻 Code](https://github.com/meta-llama/llama)] [[🤗 Model](https://huggingface.co/meta-llama)] 
+- **GPT-4**, *GPT-4 Technical Report*, 2023.03. [[📄 Paper](https://arxiv.org/abs/2303.08774)] 
+- **Claude**, 2023.03. [[🌍 Blog](https://www.anthropic.com/news/introducing-claude)]
+- **Llama 2**, *Llama 2: Open Foundation and Fine-Tuned Chat Models*, 2023.07. [[📄 Paper](https://arxiv.org/abs/2307.09288)] [[🤗 Model](https://huggingface.co/meta-llama)] 
+- **Claude 2**, 2023.07. [[🌍 Blog](https://www.anthropic.com/news/claude-2)]
+- **Mistral**, *Mistral 7B*, 2023.10. [[📄 Paper](https://arxiv.org/abs/2310.06825)] [[🤗 Model](https://huggingface.co/mistralai)] 
+- **Mamba**, *Mamba: Linear-Time Sequence Modeling with Selective State Spaces*, 2023.12, COML. [[📄 Paper](https://arxiv.org/abs/2312.00752)] [[💻 Code](https://github.com/state-spaces/mamba)]
+- **Mixtral**, *Mixtral of Experts*, 2024.01. [[📄 Paper](https://arxiv.org/abs/2401.04088)] [[🤗 Model](https://huggingface.co/mistralai)] 
+- **Gemma**, *Gemma: Open Models Based on Gemini Research and Technology*, 2024.03. [[📄 Paper](https://arxiv.org/abs/2403.08295)] [[🌍 Website](https://deepmind.google/models/gemma/)] 
+- **Claude 3**, 2024.03. [[🌍 Blog](https://www.anthropic.com/news/claude-3-family)]
+- **Llama 3**, *The Llama 3 Herd of Models*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.21783)] [[🤗 Model](https://huggingface.co/meta-llama)]
+- **Gemma 2**, *Gemma 2: Improving Open Language Models at a Practical Size*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2408.00118)] [[🤗 Model](https://huggingface.co/google/gemma-2-2b-it)]
+- **OpenAI o1**, 2024.12. [[🌍 Website](https://openai.com/o1/)]
+- **Gemini 2.0 Flash**, 2025.01. [[🌍 Blog](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message)]
+- **DeepSeek-R1**, *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning*, 2025.01. [[📄 Paper](https://arxiv.org/abs/2501.12948)] [[🤗 Model](https://huggingface.co/deepseek-ai/DeepSeek-R1)]
+- **Gemini 2.0 Pro**, 2025.02. [[🌍 Blog](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message)]
+- **Gemini 2.5 Pro**, 2025.03. [[🌍 Website](https://deepmind.google/models/gemini/pro/)]
+- **Gemma 3**, *Gemma 3 Technical Report*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.19786)] [[🌍 Website](https://deepmind.google/models/gemma/gemma-3/)]
+- **Gemini 2.5 Pro**, 2025.04. [[🌍 Website](https://deepmind.google/models/gemini/flash/)]
+- **Claude 4**, 2024.05. [[🌍 Blog](https://www.anthropic.com/news/claude-4)]
+
+
+
 
 ## Vision Foundation Models
 
@@ -23,6 +48,12 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **SAM**, *Segment anything*, 2023.04, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2304.02643)] [[🌍 Website](https://segment-anything.com/)] [[💻 Code](https://github.com/facebookresearch/segment-anything)]
 
 ## Vision Language Models
+
+- **BLIP**, *BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation*, 2022.01. [[📄 Paper](https://arxiv.org/abs/2201.12086)] [[💻 Code](https://github.com/salesforce/BLIP)] [[🤗 Model](https://huggingface.co/collections/Salesforce/blip-models-65242f40f1491fbf6a9e9472)]
+- **Flamingo**, *Flamingo: a Visual Language Model for Few-Shot Learning*, 2022.04, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2204.14198)]
+- **BLIP-2**, *BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models*, 2023.01. [[📄 Paper](https://arxiv.org/abs/2301.12597)] [[🤗 Model](https://huggingface.co/collections/Salesforce/blip2-models-65242f91b4c4b4a32e5cb652)]
+
+
 
 # Language Description as Action Tokens
 
