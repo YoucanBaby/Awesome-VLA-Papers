@@ -35,7 +35,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Gemini 2.0 Pro**, 2025.02. [[🌍 Website](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)]
 - **Gemini 2.5 Pro**, 2025.03. [[🌍 Website](https://deepmind.google/models/gemini/pro/)]
 - **Gemma 3**, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.19786)] [[🌍 Website](https://deepmind.google/models/gemma/gemma-3/)]
-- **Gemini 2.5 flash**, 2025.04. [[🌍 Website](https://deepmind.google/models/gemini/flash/)]
+- **Gemini 2.5 Flash**, 2025.04. [[🌍 Website](https://deepmind.google/models/gemini/flash/)]
 - **Claude 4**, 2024.05. [[🌍 Website](https://www.anthropic.com/news/claude-4)]
 
 
