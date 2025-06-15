@@ -43,9 +43,40 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Vision Foundation Models
 
+- **ViT**, *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*, 2020.10, ICLR 2021. [[📄 Paper](https://arxiv.org/abs/2010.11929)] [[💻 Code](https://github.com/google-research/vision_transformer)]
+- **CLIP**, *Learning Transferable Visual Models From Natural Language Supervision*, 2021.02, ICML 2021. [[📄 Paper](https://arxiv.org/abs/2103.00020)] [[💻 Code](https://github.com/OpenAI/CLIP)]
+- **DINO**, *Emerging Properties in Self-Supervised Vision Transformers*, 2021.04, ICCV 2021. [[📄 Paper](https://arxiv.org/abs/2104.14294)] [[💻 Code](https://github.com/facebookresearch/dino)]
+- **GLIP**, *Grounded Language-Image Pre-training*, 2021.12, CVPR 2022. [[📄 Paper](https://arxiv.org/abs/2112.03857)] [[💻 Code](https://github.com/microsoft/GLIP)]
+- **GLIDE**, *GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models*, 2021.12, ICML 2022. [[📄 Paper](https://arxiv.org/abs/2112.10741)] [[💻 Code](https://github.com/openai/glide-text2im)]
+- **Stable Diffusion**, *High-Resolution Image Synthesis with Latent Diffusion Models*, 2021.12, CVPR 2022. [[📄 Paper](https://arxiv.org/abs/2112.10752)] [[💻 Code](https://github.com/CompVis/latent-diffusion)]
+- **DALL-E 2**, *Hierarchical Text-Conditional Image Generation with CLIP Latents*, 2022.04, CVPR 2022. [[📄 Paper](https://arxiv.org/abs/2204.06125)] [[🌍 Website](https://openai.com/index/dall-e-2/)]
+- **Imagen**, *Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding*, 2022.05, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2205.11487)] [[🌍 Website](https://imagen.research.google/)]
+- **Stable Diffusion 2**. [[🌍 Website](https://github.com/Stability-AI/StableDiffusion)]
+- **ControlNet**, *Adding Conditional Control to Text-to-Image Diffusion Models*, 2023.02, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2302.05543)] [[💻 Code](https://github.com/lllyasviel/ControlNet)]
+- **PVDM**, *Video Probabilistic Diffusion Models in Projected Latent Space*, 2023.02, CVPR 2023. [[📄 Paper](https://arxiv.org/abs/2302.07685)] [[🌍 Website](https://sihyun.me/PVDM/)] [[💻 Code](https://github.com/sihyun-yu/PVDM)]
+- **SigLIP**, *Sigmoid Loss for Language Image Pre-Training*, 2023.03, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2303.15343)] [[💻 Code](https://github.com/google-research/big_vision)]
+- **Grounding DINO**, *Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection*, 2023.03, ECCV 2024. [[📄 Paper](https://arxiv.org/abs/2303.05499)] [[💻 Code](https://github.com/IDEA-Research/GroundingDINO)]
+- **DINOv2**, *DINOv2: Learning Robust Visual Features without Supervision*, 2023.04, TMLR 2024. [[📄 Paper](https://arxiv.org/abs/2304.07193)] [[🌍 Website](https://ai.meta.com/blog/dino-v2-computer-vision-self-supervised-learning/)] [[💻 Code](https://github.com/facebookresearch/dinov2)]
+- **SAM**, *Segment Anything*, 2023.04, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2304.02643)] [[🌍 Website](https://segment-anything.com/)] [[💻 Code](https://github.com/facebookresearch/segment-anything)] [[📊 Dataset](https://segment-anything.com/dataset/index.html)]
+- **CoTracker**, *CoTracker: It is Better to Track Together*, 2023.07, ECCV 2024. [[📄 Paper](https://arxiv.org/abs/2307.07635)] [[🌍 Website](https://co-tracker.github.io/)] [[💻 Code](https://github.com/facebookresearch/co-tracker)]
+- **Cutie**, *Putting the Object Back into Video Object Segmentation*, 2023.10, CVPR 2024 Highlight. [[📄 Paper](https://arxiv.org/abs/2310.12982)] [[🌍 Website](https://hkchengrex.com/Cutie/)] [[💻 Code](https://github.com/hkchengrex/Cutie)]
+- **VideoCrafter1**, *VideoCrafter1: Open Diffusion Models for High-Quality Video Generation*, 2023.10. [[📄 Paper](https://arxiv.org/abs/2310.19512)] [[🌍 Website](https://ailab-cvc.github.io/videocrafter1/)] [[💻 Code](https://github.com/AILab-CVC/VideoCrafter)]
+- **FoundationPose**, *FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects*, 2023.12, CVPR 2024 Highlight. [[📄 Paper](https://arxiv.org/abs/2312.08344)] [[🌍 Website](https://nvlabs.github.io/FoundationPose/)] [[💻 Code](https://github.com/NVlabs/FoundationPose)]
+- **HaMeR**, *Reconstructing Hands in 3D with Transformers*, 2023.12, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2312.05251)] [[🌍 Website](https://geopavlakos.github.io/hamer/)] [[💻 Code](https://github.com/geopavlakos/hamer)] [[📊 Dataset](https://github.com/ddshan/hint)]
 - **Depth Anything**, *Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data*, 2024.01, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2401.10891)] [[🌍 Website](https://depth-anything.github.io/)] [[💻 Code](https://github.com/LiheYoung/Depth-Anything)]
+- **Grounded SAM**, *Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks*, 2024.01. [[📄 Paper](https://arxiv.org/abs/2401.14159)] [[💻 Code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
+- **VideoCrafter2**, *VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models*, 2024.01, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2401.09047)] [[🌍 Website](https://ailab-cvc.github.io/videocrafter2/)] [[💻 Code](https://github.com/AILab-CVC/VideoCrafter)]
+- **Sora**, *Video generation models as world simulators*, 2024.02. [[🌍 Website](https://openai.com/index/video-generation-models-as-world-simulators/)]
+- **Genie**, *Genie: Generative Interactive Environments*, 2024.02, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2402.15391)] [[🌍 Website](https://sites.google.com/view/genie-2024/home)]
+- **Stable Diffusion 3**, *Scaling Rectified Flow Transformers for High-Resolution Image Synthesis*, 2024.03, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2403.03206)] [[🤗 Model](https://huggingface.co/stabilityai/stable-diffusion-3-medium)]
+- **Grounding DINO 1.5**, *Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection*, 2024.05. [[📄 Paper](https://arxiv.org/abs/2405.10300)] [[💻 Code](https://github.com/IDEA-Research/Grounding-DINO-1.5-API)]
+- **Depth Anything V2**, *Depth Anything V2*, 2024.06, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.09414)] [[🌍 Website](https://depth-anything-v2.github.io/)] [[💻 Code](https://github.com/DepthAnything/Depth-Anything-V2)]
+- **SAM 2**, *SAM 2: Segment Anything in Images and Videos*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2408.00714)] [[🌍 Website](https://ai.meta.com/sam2/)] [[💻 Code](https://github.com/facebookresearch/sam2)]
+- **Grounded-SAM-2**, *Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2401.14159)] [[💻 Code](https://github.com/IDEA-Research/Grounded-SAM-2)]
+- **SAMURAI**, *SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory*, 2024.11. [[📄 Paper](https://arxiv.org/abs/2411.11922)] [[🌍 Website](https://yangchris11.github.io/samurai/)] [[💻 Code](https://github.com/yangchris11/samurai)]
+- **Genie 2**, *Genie 2: A large-scale foundation world model*, 2024.11. [[🌍 Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
+- **Veo 3**, *Veo 3*, 2025.05. [[🌍 Website](https://deepmind.google/models/veo/)]
 
-- **SAM**, *Segment anything*, 2023.04, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2304.02643)] [[🌍 Website](https://segment-anything.com/)] [[💻 Code](https://github.com/facebookresearch/segment-anything)]
 
 ## Vision Language Models
 
