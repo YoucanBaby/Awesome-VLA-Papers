@@ -72,7 +72,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Grounding DINO 1.5**, *Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection*, 2024.05. [[📄 Paper](https://arxiv.org/abs/2405.10300)] [[💻 Code](https://github.com/IDEA-Research/Grounding-DINO-1.5-API)]
 - **Depth Anything V2**, *Depth Anything V2*, 2024.06, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2406.09414)] [[🌍 Website](https://depth-anything-v2.github.io/)] [[💻 Code](https://github.com/DepthAnything/Depth-Anything-V2)]
 - **SAM 2**, *SAM 2: Segment Anything in Images and Videos*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2408.00714)] [[🌍 Website](https://ai.meta.com/sam2/)] [[💻 Code](https://github.com/facebookresearch/sam2)]
-- **Grounded-SAM-2**, *Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2401.14159)] [[💻 Code](https://github.com/IDEA-Research/Grounded-SAM-2)]
+- **Grounded SAM 2**, *Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2401.14159)] [[💻 Code](https://github.com/IDEA-Research/Grounded-SAM-2)]
 - **SAMURAI**, *SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory*, 2024.11. [[📄 Paper](https://arxiv.org/abs/2411.11922)] [[🌍 Website](https://yangchris11.github.io/samurai/)] [[💻 Code](https://github.com/yangchris11/samurai)]
 - **Genie 2**, *Genie 2: A large-scale foundation world model*, 2024.11. [[🌍 Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 - **Veo 3**, *Veo 3*, 2025.05. [[🌍 Website](https://deepmind.google/models/veo/)]
