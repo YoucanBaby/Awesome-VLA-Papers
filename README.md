@@ -207,10 +207,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Latent Representation as Action Tokens
 
-- **BeT**, *Behavior Transformers: Cloning k modes with one stone*, 2022.06, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2206.11251)] [[🌍 Website](https://mahis.life/bet/)] [[💻 Code](https://github.com/notmahi/bet)] [[📊 Dataset](https://osf.io/983qz/)]
-- **GROOT**, *GROOT: Learning to Follow Instructions by Watching Gameplay Videos*, 2023.10, ICLR 2024 Spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08235)] [[🌍 Website](https://craftjarvis.github.io/GROOT/)] [[💻 Code](https://github.com/CraftJarvis/GROOT)] 
-- **Genie**, *Genie: Generative Interactive Environments*, 2024.02, ICML 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2402.15391)] [[🌍 Website](https://sites.google.com/view/genie-2024/home)]
-- **VQ-BeT**, *Behavior Generation with Latent Actions*, 2024.03, ICML 2024 Spotlight. [[📄 Paper](https://arxiv.org/abs/2403.03181)] [[🌍 Website](https://sjlee.cc/vq-bet/)] [[💻 Code](https://github.com/jayLEE0301/vq_bet_official)]
 - **OmniJARVIS**, *OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.00114)] [[🌍 Website](https://omnijarvis.github.io)] [[💻 Code](https://github.com/CraftJarvis/OmniJarvis)] [[📊 Dataset](https://huggingface.co/datasets/zhwang4ai/Minecraft-EmbodiedQA-300k)]
 - **QueST**, *QueST: Self-Supervised Skill Abstractions for Learning Continuous Control*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.15840)] [[🌍 Website](https://quest-model.github.io)] [[💻 Code](https://github.com/pairlab/QueST)]
 - **LAPA**, *LAPA: Latent Action Pretraining from Videos*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.11758)] [[🌍 Website](https://latentactionpretraining.github.io)] [[💻 Code](https://github.com/LatentActionPretraining/LAPA)] [[🤗 Model](https://huggingface.co/latent-action-pretraining/LAPA-7B-openx)]
