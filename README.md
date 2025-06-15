@@ -217,8 +217,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 # Raw Action as Action Tokens
 
 - **LangLfP**, *Language-Conditioned Imitation Learning over Unstructured Data*, 2020.05, RSS 2021. [[📄 Paper](https://arxiv.org/abs/2005.07648)] [[🌍 Website](https://sites.google.com/view/langlfp)]
-- **CLIPort**, *CLIPort: What and Where Pathways for Robotic Manipulation*, 2021.09, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2109.12098)]
-- **BC-Z**, *Zero-Shot Task Generalization with Robotic Imitation Learning*, 2021.09, CoRL 2021. [[📄 Paper](https://arxiv.org/abs/2202.02005)] [[🌍 Website](https://bc-z.github.io/)]
+- **CLIPort**, *CLIPort: What and Where Pathways for Robotic Manipulation*, 2021.09, CoRL 2021. [[📄 Paper](https://arxiv.org/abs/2109.12098)]
+- **BC-Z**, *Zero-Shot Task Generalization with Robotic Imitation Learning*, 2022.02, CoRL 2021. [[📄 Paper](https://arxiv.org/abs/2202.02005)] [[🌍 Website](https://bc-z.github.io/)]
 - **Gato**, *A Generalist Agent*, 2022.05, TMLR 2022. [[📄 Paper](https://arxiv.org/abs/2205.06175)] [[🌍 Website](https://deepmind.google/discover/blog/a-generalist-agent/)]
 - **VIMA**, *VIMA: General Robot Manipulation with Multimodal Prompts*, 2022.10, ICML 2023. [[📄 Paper](https://arxiv.org/abs/2210.03094)] [[🌍 Website](https://vimalabs.github.io/)] [[💻 Code](https://github.com/vimalabs/VIMA)]
 - **RT-1**, *RT-1: Robotics Transformer for Real-World Control at Scale*, 2022.12. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io/)]
@@ -226,12 +226,12 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **RT-2**, *RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*, 2023.07. [[📄 Paper](https://arxiv.org/abs/2307.15818)] [[🌍 Website](https://robotics-transformer2.github.io/)]
 - **RT-X**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)]
 - **RoboFlamingo**, *Vision-Language Foundation Models as Effective Robot Imitators*, 2023.11, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.16517)]
-- **LEO**, *An Embodied Generalist Agent in 3D World*, 2023.11, PMLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.12871)] [[🌍 Website](https://embodied-generalist.github.io/leo/)]
+- **LEO**, *An Embodied Generalist Agent in 3D World*, 2023.11, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2311.12871)] [[🌍 Website](https://embodied-generalist.github.io/leo/)]
 - **GR-1**, *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*, 2023.12, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2312.13139)] [[🌍 Website](https://gr-1.github.io/)]
 - **Octo**, *Octo: An Open-Source Generalist Robot Policy*, 2024.05, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.09733)]
 - **OpenVLA**, *OpenVLA: An open-source vision-language-action model*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io/)]
-- **TinyVLA**, *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, RA-L 2025. [[📄 Paper](https://arxiv.org/abs/2409.11121)]
-- **HiRT**, *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers*, 2024.09, PMLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
+- **TinyVLA**, *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, RA-L 2025. [[📄 Paper](https://arxiv.org/abs/2409.12514)]
+- **HiRT**, *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers*, 2024.09, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
 - **GR-2**, *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.06158v1)] [[🌍 Website](https://gr-2.github.io/)]
 - **RDT-1B**, *RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.07864)] [[🌍 Website](https://rdt-robotics.github.io/)]
 - **$\pi_0$**, *A Vision-Language-Action Flow Model for General Robot Control*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.24164)] [[🌍 Website](https://www.physicalintelligence.com/pi0)]
@@ -250,17 +250,11 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 # Reasoning as Action Tokens
 
 - **Inner Monologue**, *Inner Monologue: Embodied Reasoning through Planning with Language Models*, 2022.07, CoRL 2022. [[📄 Paper](https://arxiv.org/abs/2207.05608)] [[🌍 Website](https://innermonologue.github.io/)]
-
 - **DriveVLM**, *DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models*, 2024.02, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2402.12289)] [[🌍 Website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
-
 - **ECoT**, *Robotic Control via Embodied Chain-of-Thought Reasoning*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.08693)] [[🌍 Website](https://embodied-cot.github.io/)]
-
 - **RAD**, *Action-Free Reasoning for Policy Generalization*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.03729)] [[🌍 Website](https://rad-generalization.github.io/)]
-
 - **DexGraspVLA**, *DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.20900)] [[🌍 Website](https://dexgraspvla.github.io/)] [[💻 Code](https://github.com/Psi-Robot/DexGraspVLA)]
-
 - **AlphaDrive**, *AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning*, 2025.03, 2025. [[📄 Paper](https://arxiv.org/abs/2503.07608)] [[🌍 Website](https://github.com/hustvl/AlphaDrive)]
-
 - **Cosmos-Reason1**: *Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning*, 2025.03, arxiv.org/abs/2503.15558, 2025. [[📄 Paper](https://arxiv.org/abs/2503.15558)] [[🌍 Website](https://research.nvidia.com/labs/dir/cosmos-reason1/)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-reason1?tab=readme-ov-file)]
 
 # Scalable Data Sources
