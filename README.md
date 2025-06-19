@@ -146,6 +146,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Magma**, *Magma: A Foundation Model for Multimodal AI Agents*, 2025.2, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)]
 - **KUDA**, *KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation*, 2025.3, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2503.10546)] [[🌍 Website](https://kuda-dynamics.github.io/)] [[💻 Code](https://github.com/StoreBlank/KUDA)]
 
+
 ## Bounding Box
 
 - **GPT-4V**, *GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration*, 2023.11, RA-L 2024. [[📄 Paper](https://arxiv.org/abs/2311.12015)] [[🌍 Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)] [[💻 Code](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts)]
@@ -154,12 +155,16 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Segmentation Mask
 
+- **MOO**, *Open-World Object Manipulation using Pre-Trained Vision-Language Models*, 2023.10, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2303.00905)] [[🌍 Website](https://robot-moo.github.io/)]
+- **ROCKET-1**, *ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting*, 2024.11, CVPR 2025. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cai_ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting_CVPR_2025_paper.html)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1)]
 - **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
 - **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
-- **ROCKET-1**, *ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting*, 2024.11, CVPR 2025. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cai_ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting_CVPR_2025_paper.html)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1)]
+
+
 
 ## Affordance Map
 
+- **CLIPort**, *CLIPort: What and Where Pathways for Robotic Manipulation*, 2021.9, CoRL 2021. [[📄 Paper](https://arxiv.org/abs/2109.12098)] [[🌍 Website](https://cliport.github.io/)] [[💻 Code](https://github.com/cliport/cliport)]
 - **VoxPoser**, *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*, 2023.7, CoRL 2023 Oral. [[📄 Paper](https://arxiv.org/abs/2307.05973)] [[🌍 Website](https://voxposer.github.io/)] [[💻 Code](https://github.com/huangwl18/VoxPoser)]
 - **ManipLLM**, *ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation*, 2023.12, CVPR 2024. [[📄 Paper](https://arxiv.org/abs/2312.16217)] [[🌍 Website](https://sites.google.com/view/manipllm)] [[💻 Code](https://github.com/clorislili/ManipLLM)]
 - **ManiFoundation**, *ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots*, 2024.5, IROS 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2405.06964)] [[🌍 Website](https://manifoundationmodel.github.io/)] [[💻 Code](https://github.com/NUS-LinS-Lab/ManiFM)]
