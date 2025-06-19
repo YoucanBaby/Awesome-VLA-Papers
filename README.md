@@ -231,8 +231,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **RoboFlamingo**, *Vision-Language Foundation Models as Effective Robot Imitators*, 2023.11, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.01378)] [[🌍 Website](https://roboflamingo.github.io)] [[💻 Code](https://github.com/RoboFlamingo/RoboFlamingo)]
 - **LEO**, *An Embodied Generalist Agent in 3D World*, 2023.11, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2311.12871)] [[🌍 Website](https://embodied-generalist.github.io/)] [[💻 Code](https://github.com/embodied-generalist/embodied-generalist?tab=readme-ov-file)]
 - **GR-1**, *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*, 2023.12, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2312.13139)] [[🌍 Website](https://gr1-manipulation.github.io/)] [[💻 Code](https://github.com/bytedance/GR-1)] 
-- **Octo**, *Octo: An Open-Source Generalist Robot Policy*, 2024.05, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)]
-- **OpenVLA**, *OpenVLA: An open-source vision-language-action model*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io/)] [[💻 Code](https://github.com/openvla/openvla)]
+- **Octo**, *Octo: An Open-Source Generalist Robot Policy*, 2024.05, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)] [[🤗 Model](https://huggingface.co/rail-berkeley)]
+- **OpenVLA**, *OpenVLA: An open-source vision-language-action model*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io/)] [[💻 Code](https://github.com/openvla/openvla)] [[🤗 Model](https://huggingface.co/openvla)]
 - **TinyVLA**, *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, RA-L 2025. [[📄 Paper](https://arxiv.org/abs/2409.12514)] [[🌍 Website](https://tiny-vla.github.io/)] [[💻 Code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
 - **HiRT**, *HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers*, 2024.09, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2410.05273)]
 - **GR-2**, *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.06158v1)] [[🌍 Website](https://gr2-manipulation.github.io/)]
@@ -245,10 +245,9 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **JARVIS-VLA**, *Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.16365)] [[🌍 Website](https://craftjarvis.github.io/JarvisVLA/)] [[💻 Code](https://github.com/CraftJarvis/JarvisVLA)]
 - **HybridVLA**, *HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.10631)] [[🌍 Website](https://hybrid-vla.github.io)] [[💻 Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
 - **MoManipVLA**, *MoManipVLA: Transferring Vision-Language-Action Models for General Mobile Manipulation*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.13446)]
-- **GR00T N1**, *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.14734)] [[🌍 Website](https://developer.nvidia.com/isaac/gr00t)]
+- **GR00T N1**, *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.14734)] [[🌍 Website](https://developer.nvidia.com/isaac/gr00t)] [[💻 Code](https://github.com/NVIDIA/Isaac-GR00T)] [[🤗 Model](https://huggingface.co/nvidia/GR00T-N1.5-3B)]
 - **$\pi_0$+KI**, *Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better*, 2025.05. [[📄 Paper](https://arxiv.org/abs/2505.23705)] [[🌍 Website](https://www.physicalintelligence.company/research/knowledge_insulation)]
 - **RTC**, *Real-Time Execution of Action Chunking Flow Policies*, 2025.06. [[📄 Paper](https://arxiv.org/abs/2506.07339)] [[🌍 Website](https://www.pi.website/research/real_time_chunking)]
-
 
 # Reasoning as Action Tokens
 
