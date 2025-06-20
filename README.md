@@ -267,21 +267,28 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[📄 Paper](https://arxiv.org/abs/1706.04261)] [[🌍 Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
 - **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
 - **Ego4D**, *Ego4D: Around the World in 3,000 Hours of Egocentric Video*, 2021.10. [[📄 Paper](https://arxiv.org/abs/2110.07058)] [[🌍 Website](https://ego4d-data.org)]
+- **Ego-Exo4D**, *Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives*, 2023.11. [[📄 Paper](https://arxiv.org/abs/2311.18259)] [[🌍 Website](https://ego-exo4d-data.org/)]
 
 ## Middle Layer: Synthetic and Simulation Data
 
 - **MimicGen**, *MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations*, 2023.10, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2310.17596)]
+- **RoboCase**, *RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots*, 2024.06, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2406.02523)] [[🌍 Website](https://robocasa.ai/)] [[💻 Code](https://github.com/robocasa/robocasa)]
 - **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
 - **AgiBot DigitalWorld**, *AgiBot DigitalWorld*, 2025.02. [[🌍 Website](https://agibot-digitalworld.com/)]
 
 ## Apex Layer: Real-world Robot Manipulation Data
 
+- **nuScenes**, *nuScenes: A multimodal dataset for autonomous driving*, 2019.03, CVPR 2020. [[📄 Paper](https://arxiv.org/abs/1903.11027)] [[🌍 Website](https://www.nuscenes.org/)] [[💻 Code](https://github.com/nutonomy/nuscenes-devkit)]
+- **WOMD**, *Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset*, 2021.04, ICCV 2021. [[📄 Paper](https://arxiv.org/abs/2104.10133)] [[🌍 Website](https://waymo.com/open/)] [[💻 Code](https://github.com/waymo-research/waymo-open-dataset)]
 - **RT-1**, *RT-1: ROBOTICS TRANSFORMER  FOR REAL-WORLD CONTROL AT SCALE*, 2022.12. [[📄 Paper](https://arxiv.org/abs/2212.06817)] [[🌍 Website](https://robotics-transformer1.github.io/)]
 - **RH20T**, *RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot*, 2023.06, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2307.00595)] [[🌍 Website](https://rh20t.github.io)]
 - **BridgeData V2**, *BridgeData V2: A Dataset for Robot Learning at Scale*, 2023.08, CoRL 2o23. [[📄 Paper](https://arxiv.org/abs/2308.12952)] [[🌍 Website](https://rail-berkeley.github.io/bridgedata/)]
 - **OXE**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)]
 - **HoNY**, *On Bringing Robots Home*, 2023.11. [[📄 Paper](https://arxiv.org/abs/2311.16098)] [[🌍 Website](https://dobb-e.com)]
 - **DROID**, *DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset*, 2024.03, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.12945)] [[🌍 Website](https://huggingface.co/KarlP/droid)]
+- **CoVLA**, *CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving*, 2024.08, WACV 2025. [[📄 Paper](https://arxiv.org/abs/2408.10845)] [[🌍 Website](https://turingmotors.github.io/covla-ad/)]
+- **RoboMIND**, *RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation*, 2024.12, RSS 2025. [[📄 Paper](https://arxiv.org/abs/2412.13877)] [[🌍 Website](https://x-humanoid-robomind.github.io/)]
+- **AgiBot World**, *AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.06669)] [[🌍 Website](https://agibot-world.com/)] [[💻 Code](https://github.com/OpenDriveLab/AgiBot-World)]
 
 # Related Surveys
 
