@@ -262,7 +262,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Scalable Data Sources
 
-## Foundation Layer: Web-Scale Human Video Data
+## Bottom Layer: Web-Scale Human Video Data
 
 - **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[📄 Paper](https://arxiv.org/abs/1706.04261)] [[🌍 Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
 - **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
@@ -276,7 +276,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
 - **AgiBot DigitalWorld**, *AgiBot DigitalWorld*, 2025.02. [[🌍 Website](https://agibot-digitalworld.com/)]
 
-## Apex Layer: Real-world Robot Manipulation Data
+## Top Layer: Real-world Robot Manipulation Data
 
 - **nuScenes**, *nuScenes: A multimodal dataset for autonomous driving*, 2019.03, CVPR 2020. [[📄 Paper](https://arxiv.org/abs/1903.11027)] [[🌍 Website](https://www.nuscenes.org/)] [[💻 Code](https://github.com/nutonomy/nuscenes-devkit)]
 - **WOMD**, *Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset*, 2021.04, ICCV 2021. [[📄 Paper](https://arxiv.org/abs/2104.10133)] [[🌍 Website](https://waymo.com/open/)] [[💻 Code](https://github.com/waymo-research/waymo-open-dataset)]
