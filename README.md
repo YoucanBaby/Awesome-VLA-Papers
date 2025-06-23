@@ -139,8 +139,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Keypoint
 
 - **KITE**, *KITE: Keypoint-Conditioned Policies for Semantic Manipulation*, 2023.6, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2306.16605)] [[🌍 Website](https://sites.google.com/view/kite-website/home)] [[💻 Code](https://github.com/priyasundaresan/kite_keypoint_training)]
-- **RoboPoint**, *RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics*, 2024.1, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.10721)] [[🌍 Website](https://robo-point.github.io/)] [[💻 Code](https://github.com/wentaoyuan/RoboPoint)]
 - **CoPa**, *CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models*, 2024.3, IROS 2024. [[📄 Paper](https://arxiv.org/abs/2403.08248)] [[🌍 Website](https://copa-2024.github.io/)] [[💻 Code](https://github.com/HaoxuHuang/copa)]
+- **RoboPoint**, *RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics*, 2024.6, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.10721)] [[🌍 Website](https://robo-point.github.io/)] [[💻 Code](https://github.com/wentaoyuan/RoboPoint)]
 - **RAM**, *RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation*, 2024.7, CoRL 2024 Oral. [[📄 Paper](https://arxiv.org/abs/2407.04689)] [[🌍 Website](https://yuxuank.com/RAM/)] [[💻 Code](https://github.com/yxKryptonite/RAM_code)]
 - **ReKep**, *ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation*, 2024.9, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2409.01652)] [[🌍 Website](https://rekep-robot.github.io/)] [[💻 Code](https://github.com/huangwl18/ReKep)]
 - **OmniManip**, *OmniManip: Towards General Robotic Manipulation via Object-Centric  Interaction Primitives as Spatial Constraints*, 2025.1, CVPR 2025 Highlight. [[📄 Paper](https://arxiv.org/abs/2501.03841)] [[🌍 Website](https://omnimanip.github.io/)]
@@ -156,7 +156,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 ## Segmentation Mask
 
-- **MOO**, *Open-World Object Manipulation using Pre-Trained Vision-Language Models*, 2023.10, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2303.00905)] [[🌍 Website](https://robot-moo.github.io/)]
+- **MOO**, *Open-World Object Manipulation using Pre-Trained Vision-Language Models*, 2023.3, CoRL 2023. [[📄 Paper](https://arxiv.org/abs/2303.00905)] [[🌍 Website](https://robot-moo.github.io/)]
 - **ROCKET-1**, *ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting*, 2024.11, CVPR 2025. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cai_ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting_CVPR_2025_paper.html)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1)]
 - **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
 - **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
