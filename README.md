@@ -297,7 +297,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - *What Foundation Models can Bring for Robot Learning in Manipulation : A Survey*, 2024.04. [[📄 Paper](https://arxiv.org/abs/2404.18201)]
 - *A Survey on Vision-Language-Action Models for Embodied AI*, 2024.05. [[📄 Paper](https://arxiv.org/abs/2405.14093)]
 - *Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.06886)]
-- *A Survey of Embodied Learning for Object-Centric Robotic Manipulation*, 2024.08, Machine Intelligence Research 2025. [[📄 Paper](https://arxiv.org/abs/2408.11537)]
 - *Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.16411)]
 - *Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions*, 2025.02, Information Fusion Volume 122. [[📄 Paper](https://arxiv.org/abs/2502.15336)]
 - *Generative Artificial Intelligence in Robotic Manipulation: A Survey*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.03464)]
