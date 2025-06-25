@@ -173,7 +173,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Trajectory as Action Tokens
 
-## Robot Manipulation
+## Robotic Manipulation
 
 - **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
 - **Rt-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
@@ -275,7 +275,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
 - **AgiBot DigitalWorld**, *AgiBot DigitalWorld*, 2025.02. [[🌍 Website](https://agibot-digitalworld.com/)]
 
-## Top Layer: Real-world Robot Manipulation Data
+## Top Layer: Real-world Robotic Manipulation Data
 
 - **nuScenes**, *nuScenes: A multimodal dataset for autonomous driving*, 2019.03, CVPR 2020. [[📄 Paper](https://arxiv.org/abs/1903.11027)] [[🌍 Website](https://www.nuscenes.org/)] [[💻 Code](https://github.com/nutonomy/nuscenes-devkit)]
 - **WOMD**, *Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset*, 2021.04, ICCV 2021. [[📄 Paper](https://arxiv.org/abs/2104.10133)] [[🌍 Website](https://waymo.com/open/)] [[💻 Code](https://github.com/waymo-research/waymo-open-dataset)]
