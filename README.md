@@ -176,7 +176,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 ## Robotic Manipulation
 
 - **AVDC**, *LEARNING TO ACT FROM ACTIONLESS VIDEOS  THROUGH DENSE CORRESPONDENCES*, 2023.10, ICLR 2024 spotlight. [[📄 Paper](https://arxiv.org/abs/2310.08576)]
-- **Rt-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
+- **RT-Trajectory**, *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*, 2023.11, ICLR 2024 (Spotlight). [[📄 Paper](https://arxiv.org/abs/2311.01977)] [[🌍 Website](https://rt-trajectory.github.io)]
 - **ATM**, *Any-point Trajectory Modeling for Policy Learning*, 2023.12, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2401.00025)] [[🌍 Website](https://xingyu-lin.github.io/atm/)] [[💻 Code](https://github.com/Large-Trajectory-Model/ATM)]
 - **LLARVA**, *LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.11815)] [[🌍 Website](https://llarva24.github.io)] [[💻 Code](https://github.com/Dantong88/LLARVA)] [[📊 Dataset](https://github.com/Dantong88/LLARVA/blob/main/docs/DATASET.md)]
 - **Im2Flow2Act**, *Flow as the Cross-Domain Manipulation Interface*, 2024.07, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2407.15208)] [[🌍 Website](https://im-flow-act.github.io)] [[💻 Code](https://github.com/real-stanford/im2Flow2Act)]
