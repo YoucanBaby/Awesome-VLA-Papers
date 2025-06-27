@@ -51,7 +51,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Stable Diffusion**, *High-Resolution Image Synthesis with Latent Diffusion Models*, 2021.12, CVPR 2022. [[📄 Paper](https://arxiv.org/abs/2112.10752)] [[💻 Code](https://github.com/CompVis/latent-diffusion)]
 - **DALL-E 2**, *Hierarchical Text-Conditional Image Generation with CLIP Latents*, 2022.04, CVPR 2022. [[📄 Paper](https://arxiv.org/abs/2204.06125)] [[🌍 Website](https://openai.com/index/dall-e-2/)]
 - **Imagen**, *Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding*, 2022.05, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2205.11487)] [[🌍 Website](https://imagen.research.google/)]
-- **Stable Diffusion 2**. [[🌍 Website](https://github.com/Stability-AI/StableDiffusion)]
+- **Stable Diffusion 2**, 2022.11. [[🌍 Website](https://github.com/Stability-AI/StableDiffusion)]
 - **ControlNet**, *Adding Conditional Control to Text-to-Image Diffusion Models*, 2023.02, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2302.05543)] [[💻 Code](https://github.com/lllyasviel/ControlNet)]
 - **PVDM**, *Video Probabilistic Diffusion Models in Projected Latent Space*, 2023.02, CVPR 2023. [[📄 Paper](https://arxiv.org/abs/2302.07685)] [[🌍 Website](https://sihyun.me/PVDM/)] [[💻 Code](https://github.com/sihyun-yu/PVDM)]
 - **SigLIP**, *Sigmoid Loss for Language Image Pre-Training*, 2023.03, ICCV 2023. [[📄 Paper](https://arxiv.org/abs/2303.15343)] [[💻 Code](https://github.com/google-research/big_vision)]
