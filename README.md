@@ -261,7 +261,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 
 # Scalable Data Sources
 
-## Bottom Layer: Web-Scale Human Video Data
+## Bottom Layer: Web Data and Human Video
 
 - **Something-Something V2**, *The" something something" video database for learning and evaluating visual common sense*, 2017.06. [[📄 Paper](https://arxiv.org/abs/1706.04261)] [[🌍 Website](https://www.qualcomm.com/developer/software/something-something-v-2-dataset)]
 - **EPIC-KITCHENS-100**, *Scaling Egocentric Vision: The EPIC-KITCHENS Dataset*, 2018.04. [[📄 Paper](https://arxiv.org/abs/1804.02748)] [[🌍 Website](https://epic-kitchens.github.io/2020-100)]
@@ -294,7 +294,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - *Robot Learning in the Era of Foundation Models: A Survey*, 2023.11, Neurocomputing Volume 638. [[📄 Paper](https://arxiv.org/abs/2311.14379)]
 - *A Survey on Robotics with Foundation Models: toward Embodied AI*, 2024.02. [[📄 Paper](https://arxiv.org/abs/2402.02385)]
 - *A Survey on Integration of Large Language Models with Intelligent Robots*, 2024.04, Intelligent Service Robotics 2024. [[📄 Paper](https://arxiv.org/abs/2404.09228)]
-- *What Foundation Models can Bring for Robot Learning in Manipulation : A Survey*, 2024.04. [[📄 Paper](https://arxiv.org/abs/2404.18201)]
+- *What Foundation Models can Bring for Robot Learning in Manipulation: A Survey*, 2024.04. [[📄 Paper](https://arxiv.org/abs/2404.18201)]
 - *A Survey on Vision-Language-Action Models for Embodied AI*, 2024.05. [[📄 Paper](https://arxiv.org/abs/2405.14093)]
 - *Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.06886)]
 - *Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions*, 2025.02, Information Fusion Volume 122. [[📄 Paper](https://arxiv.org/abs/2502.15336)]
