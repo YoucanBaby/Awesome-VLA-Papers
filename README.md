@@ -1,6 +1,6 @@
 # Awesome-VLA-Papers
 
-This repo hosts the paper list in the survey: *A Survey on Vision-Language-Action Models: An Action Tokenization Perspective*.
+This repository contains the list of representative VLA works list in the survey “*A Survey on Vision-Language-Action Models: An Action Tokenization Perspective*”, along with relevant reference materials.
 
 # Foundation Models
 
@@ -9,23 +9,23 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Transformer**, *Attention is All You Need*, 2017.06, NIPS 2017. [[📄 Paper](https://arxiv.org/abs/1706.03762)]
 - **USE**, *Universal sentence encoder*, 2018.03. [[📄 Paper](https://arxiv.org/abs/1803.11175)]
 - **GPT-1**, *Improving language understanding by generative pre-training*, 2018.06. [[📄 Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
-- **BERT**, *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*, 2018.10, NAACL 2019. [[📄 Paper](https://arxiv.org/abs/1810.04805)] [[💻 Code](https://github.com/google-research/bert)] [[🤗 Model](https://huggingface.co/google-bert)] 
+- **BERT**, *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*, 2018.10, NAACL 2019. [[📄 Paper](https://arxiv.org/abs/1810.04805)] [[💻 Code](https://github.com/google-research/bert)] [[🤗 Model](https://huggingface.co/google-bert)]
 - **GPT-2**, *Language Models are Unsupervised Multitask Learners*, 2019.02. [[📄 Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)] [[💻 Code](https://github.com/openai/gpt-2)]
 - **MUSE**, *Multilingual universal sentence encoder for semantic retrieval*, 2019.07. [[📄 Paper](https://arxiv.org/abs/1907.04307)] [[💻 Code](https://github.com/facebookresearch/MUSE)]
-- **T5**, *Exploring the limits of transfer learning with a unified text-to-text transformer*, 2019.10, JMLR 2020. [[📄 Paper](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)] [[💻 Code](https://github.com/google-research/text-to-text-transfer-transformer)] [[🤗 Model](https://huggingface.co/google-t5)] 
+- **T5**, *Exploring the limits of transfer learning with a unified text-to-text transformer*, 2019.10, JMLR 2020. [[📄 Paper](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)] [[💻 Code](https://github.com/google-research/text-to-text-transfer-transformer)] [[🤗 Model](https://huggingface.co/google-t5)]
 - **GPT-3**, *Language Models are Few-Shot Learners*, 2020.05, NeurIPS 2020. [[📄 Paper](https://arxiv.org/abs/2005.14165)]
 - **InstructGPT**, *Training language models to follow instructions with human feedback*, 2022.03, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2203.02155)] [[🌍 Website](https://openai.com/index/instruction-following/)]
 - **Chinchilla**, *Training Compute-Optimal Large Language Models*, 2022.03, NeurIPS 2022. [[📄 Paper](https://arxiv.org/abs/2203.15556)]
 - **ChatGPT**, 2022.11. [[🌍 Website](https://openai.com/index/chatgpt/?utm_source=chatgpt.com)]
-- **LLaMA**, *LLaMA: Open and Efficient Foundation Language Models*, 2023.02. [[📄 Paper](https://arxiv.org/abs/2302.13971)] [[💻 Code](https://github.com/meta-llama/llama)] [[🤗 Model](https://huggingface.co/meta-llama)] 
+- **LLaMA**, *LLaMA: Open and Efficient Foundation Language Models*, 2023.02. [[📄 Paper](https://arxiv.org/abs/2302.13971)] [[💻 Code](https://github.com/meta-llama/llama)] [[🤗 Model](https://huggingface.co/meta-llama)]
 - **GPT-4**, 2023.03. [[📄 Paper](https://arxiv.org/abs/2303.08774)] [[🌍 Website](https://openai.com/index/gpt-4-research/)]
 - **Claude**, 2023.03. [[🌍 Website](https://www.anthropic.com/news/introducing-claude)]
-- **Llama 2**, *Llama 2: Open Foundation and Fine-Tuned Chat Models*, 2023.07. [[📄 Paper](https://arxiv.org/abs/2307.09288)] [[🤗 Model](https://huggingface.co/meta-llama)] 
+- **Llama 2**, *Llama 2: Open Foundation and Fine-Tuned Chat Models*, 2023.07. [[📄 Paper](https://arxiv.org/abs/2307.09288)] [[🤗 Model](https://huggingface.co/meta-llama)]
 - **Claude 2**, 2023.07. [[🌍 Website](https://www.anthropic.com/news/claude-2)]
-- **Mistral**, *Mistral 7B*, 2023.10. [[📄 Paper](https://arxiv.org/abs/2310.06825)] [[🤗 Model](https://huggingface.co/mistralai)] 
+- **Mistral**, *Mistral 7B*, 2023.10. [[📄 Paper](https://arxiv.org/abs/2310.06825)] [[🤗 Model](https://huggingface.co/mistralai)]
 - **Mamba**, *Mamba: Linear-Time Sequence Modeling with Selective State Spaces*, 2023.12, COML. [[📄 Paper](https://arxiv.org/abs/2312.00752)] [[💻 Code](https://github.com/state-spaces/mamba)]
-- **Mixtral**, *Mixtral of Experts*, 2024.01. [[📄 Paper](https://arxiv.org/abs/2401.04088)] [[🤗 Model](https://huggingface.co/mistralai)] 
-- **Gemma**, *Gemma: Open Models Based on Gemini Research and Technology*, 2024.03. [[📄 Paper](https://arxiv.org/abs/2403.08295)] [[🌍 Website](https://deepmind.google/models/gemma/)] 
+- **Mixtral**, *Mixtral of Experts*, 2024.01. [[📄 Paper](https://arxiv.org/abs/2401.04088)] [[🤗 Model](https://huggingface.co/mistralai)]
+- **Gemma**, *Gemma: Open Models Based on Gemini Research and Technology*, 2024.03. [[📄 Paper](https://arxiv.org/abs/2403.08295)] [[🌍 Website](https://deepmind.google/models/gemma/)]
 - **Claude 3**, 2024.03. [[🌍 Website](https://www.anthropic.com/news/claude-3-family)]
 - **Llama 3**, *The Llama 3 Herd of Models*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.21783)] [[🌍 Website](https://www.llama.com/models/llama-3/)] [[🤗 Model](https://huggingface.co/meta-llama)]
 - **Gemma 2**, *Gemma 2: Improving Open Language Models at a Practical Size*, 2024.08. [[📄 Paper](https://arxiv.org/abs/2408.00118)] [[🤗 Model](https://huggingface.co/google/gemma-2-2b-it)]
@@ -37,9 +37,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Gemma 3**, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.19786)] [[🌍 Website](https://deepmind.google/models/gemma/gemma-3/)]
 - **Gemini 2.5 Flash**, 2025.04. [[🌍 Website](https://deepmind.google/models/gemini/flash/)]
 - **Claude 4**, 2024.05. [[🌍 Website](https://www.anthropic.com/news/claude-4)]
-
-
-
 
 ## Vision Foundation Models
 
@@ -77,7 +74,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Genie 2**, *Genie 2: A large-scale foundation world model*, 2024.11. [[🌍 Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 - **Veo 3**, *Veo 3*, 2025.05. [[🌍 Website](https://deepmind.google/models/veo/)]
 
-
 ## Vision Language Models
 
 - **BLIP**, *BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation*, 2022.01, ICML 2022. [[📄 Paper](https://arxiv.org/abs/2201.12086)] [[💻 Code](https://github.com/salesforce/BLIP)] [[🤗 Model](https://huggingface.co/collections/Salesforce/blip-models-65242f40f1491fbf6a9e9472)]
@@ -91,11 +87,8 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **PaliGemma**, *PaliGemma: A versatile 3B VLM for transfer*, 2024.07. [[📄 Paper](https://arxiv.org/abs/2407.07726)] [[🌍 Website](https://huggingface.co/blog/paligemma)]
 - **Qwen2-VL**, *Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution*, 2024.09. [[📄 Paper](https://arxiv.org/abs/2409.12191)] [[🌍 Website](https://qwenlm.github.io/blog/qwen2-vl/)] [[🤗 Model](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d)]
 - **Qwen2.5-VL**, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.13923)] [[🌍 Website](https://qwenlm.github.io/blog/qwen2.5-vl/)] [[💻 Code](https://github.com/QwenLM/Qwen2.5-VL)] [[🤗 Model](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5)]
-- **Gemini 2.5 Pro**, 2025.03. [[🌍 Website](https://deepmind.google/models/gemini/pro/)] 
-- **Gemini 2.5 Flash**, 2025.04. [[🌍 Website](https://deepmind.google/models/gemini/flash/)] 
-
-
-
+- **Gemini 2.5 Pro**, 2025.03. [[🌍 Website](https://deepmind.google/models/gemini/pro/)]
+- **Gemini 2.5 Flash**, 2025.04. [[🌍 Website](https://deepmind.google/models/gemini/flash/)]
 
 # Language Description as Action Tokens
 
@@ -130,7 +123,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **ProgPrompt**, *ProgPrompt: Generating Situated Robot Task Plans using Large Language Models*, 2022.09, ICRA 2023. [[📄 Paper](https://arxiv.org/abs/2209.11302)] [[🌍 Website](https://progprompt.github.io)] [[💻 Code](https://github.com/NVlabs/progprompt-vh)]
 - **ChatGPT for Robotics**, *ChatGPT for Robotics: Design Principles and Model Abilities*, 2023.02, IEEE Access 2024. [[📄 Paper](https://arxiv.org/abs/2306.17582)] [[🌍 Website](https://www.microsoft.com/en-us/research/articles/chatgpt-for-robotics/)] [[💻 Code](https://github.com/microsoft/PromptCraft-Robotics)]
 - **Text2Motion**, *Text2Motion: From Natural Language Instructions to Feasible Plans*, 2023.03, ICRL 2023. [[📄 Paper](https://arxiv.org/abs/2303.12153)] [[🌍 Website](https://sites.google.com/stanford.edu/text2motion)]
-- **Instruct2Act**, *Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model*, 2023.05. [[📄 Paper](https://arxiv.org/abs/2305.11176)] [[💻 Code](https://github.com/OpenGVLab/Instruct2Act)] 
+- **Instruct2Act**, *Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model*, 2023.05. [[📄 Paper](https://arxiv.org/abs/2305.11176)] [[💻 Code](https://github.com/OpenGVLab/Instruct2Act)]
 - **RoboScript**, *RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation*, 2024.02. [[📄 Paper](https://arxiv.org/abs/2402.14623)]
 - **RoboCodeX**, *RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis*, 2024.02, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2402.16117)] [[🌍 Website](https://sites.google.com/view/robocodexplus)] [[💻 Code](https://github.com/RoboCodeX-source/RoboCodeX_code)]
 
@@ -147,7 +140,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **Magma**, *Magma: A Foundation Model for Multimodal AI Agents*, 2025.2, CVPR 2025. [[📄 Paper](https://arxiv.org/abs/2502.13130)] [[🌍 Website](https://microsoft.github.io/Magma/)] [[💻 Code](https://github.com/microsoft/Magma)]
 - **KUDA**, *KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation*, 2025.3, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2503.10546)] [[🌍 Website](https://kuda-dynamics.github.io/)] [[💻 Code](https://github.com/StoreBlank/KUDA)]
 
-
 ## Bounding Box
 
 - **GPT-4V**, *GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration*, 2023.11, RA-L 2024. [[📄 Paper](https://arxiv.org/abs/2311.12015)] [[🌍 Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)] [[💻 Code](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts)]
@@ -160,8 +152,6 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **ROCKET-1**, *ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting*, 2024.11, CVPR 2025. [[📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cai_ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting_CVPR_2025_paper.html)] [[🌍 Website](https://craftjarvis.github.io/ROCKET-1)]
 - **SoFar**, *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation*, 2025.2. [[📄 Paper](https://arxiv.org/abs/2502.13143)] [[🌍 Website](https://qizekun.github.io/sofar/)] [[💻 Code](https://github.com/qizekun/SoFar)]
 - **RoboDexVLM**, *RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation*, 2025.3. [[📄 Paper](https://arxiv.org/abs/2503.01616)] [[🌍 Website](https://henryhcliu.github.io/robodexvlm/)]
-
-
 
 ## Affordance Map
 
@@ -216,7 +206,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **OmniJARVIS**, *OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.00114)] [[🌍 Website](https://omnijarvis.github.io)] [[💻 Code](https://github.com/CraftJarvis/OmniJarvis)] [[📊 Dataset](https://huggingface.co/datasets/zhwang4ai/Minecraft-EmbodiedQA-300k)]
 - **QueST**, *QueST: Self-Supervised Skill Abstractions for Learning Continuous Control*, 2024.07, NeurIPS 2024. [[📄 Paper](https://arxiv.org/abs/2407.15840)] [[🌍 Website](https://quest-model.github.io)] [[💻 Code](https://github.com/pairlab/QueST)]
 - **LAPA**, *LAPA: Latent Action Pretraining from Videos*, 2024.10, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2410.11758)] [[🌍 Website](https://latentactionpretraining.github.io)] [[💻 Code](https://github.com/LatentActionPretraining/LAPA)] [[🤗 Model](https://huggingface.co/latent-action-pretraining/LAPA-7B-openx)]
-- **GROOT-2**, *GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents*, 2024.12, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2412.10410)] 
+- **GROOT-2**, *GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents*, 2024.12, ICLR 2025. [[📄 Paper](https://arxiv.org/abs/2412.10410)]
 - **GO-1**, *AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems*, 2025.03. [[📄 Paper](https://arxiv.org/abs/2503.06669)] [[🌍 Website](https://agibot-world.com)] [[💻 Code](https://github.com/OpenDriveLab/AgiBot-World)] [[📊 Dataset](https://huggingface.co/agibot-world)]
 - **UniVLA**, *UniVLA: Learning to Act Anywhere with Task-centric Latent Actions*, 2025.05, RSS2025. [[📄 Paper](https://arxiv.org/abs/2505.06111)] [[💻 Code](https://github.com/OpenDriveLab/UniVLA)] [[🤗 Model](https://github.com/OpenDriveLab/UniVLA#ckpts)]
 
@@ -231,7 +221,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **RT-X**, *Open X-Embodiment: Robotic Learning Datasets and RT-X Models*, 2023.10, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2310.08864)] [[🌍 Website](https://robotics-transformer-x.github.io)] [[💻 Code](https://github.com/google-deepmind/open_x_embodiment)]
 - **RoboFlamingo**, *Vision-Language Foundation Models as Effective Robot Imitators*, 2023.11, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2311.01378)] [[🌍 Website](https://roboflamingo.github.io)] [[💻 Code](https://github.com/RoboFlamingo/RoboFlamingo)] [[🤗 Model](https://huggingface.co/roboflamingo/RoboFlamingo)]
 - **LEO**, *An Embodied Generalist Agent in 3D World*, 2023.11, ICML 2024. [[📄 Paper](https://arxiv.org/abs/2311.12871)] [[🌍 Website](https://embodied-generalist.github.io/)] [[💻 Code](https://github.com/embodied-generalist/embodied-generalist?tab=readme-ov-file)]
-- **GR-1**, *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*, 2023.12, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2312.13139)] [[🌍 Website](https://gr1-manipulation.github.io/)] [[💻 Code](https://github.com/bytedance/GR-1)] 
+- **GR-1**, *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*, 2023.12, ICLR 2024. [[📄 Paper](https://arxiv.org/abs/2312.13139)] [[🌍 Website](https://gr1-manipulation.github.io/)] [[💻 Code](https://github.com/bytedance/GR-1)]
 - **Octo**, *Octo: An Open-Source Generalist Robot Policy*, 2024.05, ICRA 2024. [[📄 Paper](https://arxiv.org/abs/2405.12213)] [[🌍 Website](https://octo-models.github.io)] [[💻 Code](https://github.com/octo-models/octo)] [[🤗 Model](https://huggingface.co/rail-berkeley)]
 - **OpenVLA**, *OpenVLA: An open-source vision-language-action model*, 2024.06, CoRL 2024. [[📄 Paper](https://arxiv.org/abs/2406.09246)] [[🌍 Website](https://openvla.github.io/)] [[💻 Code](https://github.com/openvla/openvla)] [[🤗 Model](https://huggingface.co/openvla)]
 - **TinyVLA**, *TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation*, 2024.09, RA-L 2025. [[📄 Paper](https://arxiv.org/abs/2409.12514)] [[🌍 Website](https://tiny-vla.github.io/)] [[💻 Code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
@@ -275,7 +265,7 @@ This repo hosts the paper list in the survey: *A Survey on Vision-Language-Actio
 - **DexMimicGen**, *DexMimicGen: Automated Data Generation for  Bimanual Dexterous Manipulation via Imitation Learning*, 2024.10, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.24185)] [[🌍 Website](https://dexmimicgen.github.io)]
 - **AgiBot DigitalWorld**, *AgiBot DigitalWorld*, 2025.02. [[🌍 Website](https://agibot-digitalworld.com/)]
 
-## Top Layer: Real-world Robotic Manipulation Data
+## Top Layer: Real-world Robot Data
 
 - **nuScenes**, *nuScenes: A multimodal dataset for autonomous driving*, 2019.03, CVPR 2020. [[📄 Paper](https://arxiv.org/abs/1903.11027)] [[🌍 Website](https://www.nuscenes.org/)] [[💻 Code](https://github.com/nutonomy/nuscenes-devkit)]
 - **WOMD**, *Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset*, 2021.04, ICCV 2021. [[📄 Paper](https://arxiv.org/abs/2104.10133)] [[🌍 Website](https://waymo.com/open/)] [[💻 Code](https://github.com/waymo-research/waymo-open-dataset)]
