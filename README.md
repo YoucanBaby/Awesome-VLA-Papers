@@ -1,6 +1,6 @@
 # Awesome-VLA-Papers
 
-This repository contains the list of representative VLA works in the survey “*A Survey on Vision-Language-Action Models: An Action Tokenization Perspective*”, along with relevant reference materials.
+This repository contains the list of representative VLA works in the survey “[*A Survey on Vision-Language-Action Models: An Action Tokenization Perspective*](https://arxiv.org/abs/2507.01925)”, along with relevant reference materials.
 
 # Foundation Models
 
